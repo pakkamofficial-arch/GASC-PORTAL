@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "6acb520049bd53f1c01f4739",
+    "name": "2024-2027 Batch",
+    "courseId": "6acb520049bd53f1c01f472d",
+    "admissionYear": 2024,
+    "graduationYear": 2027,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.071Z",
+    "updatedAt": "2026-10-11T09:08:16.071Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f473b",
+    "name": "2023-2026 Batch",
+    "courseId": "6acb520049bd53f1c01f472d",
+    "admissionYear": 2023,
+    "graduationYear": 2026,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.075Z",
+    "updatedAt": "2026-10-11T09:08:16.075Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f473d",
+    "name": "2022-2025 Batch",
+    "courseId": "6acb520049bd53f1c01f472d",
+    "admissionYear": 2022,
+    "graduationYear": 2025,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.078Z",
+    "updatedAt": "2026-10-11T09:08:16.078Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f473f",
+    "name": "2024-2027 Batch",
+    "courseId": "6acb520049bd53f1c01f4730",
+    "admissionYear": 2024,
+    "graduationYear": 2027,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.083Z",
+    "updatedAt": "2026-10-11T09:08:16.083Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4741",
+    "name": "2023-2026 Batch",
+    "courseId": "6acb520049bd53f1c01f4730",
+    "admissionYear": 2023,
+    "graduationYear": 2026,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.088Z",
+    "updatedAt": "2026-10-11T09:08:16.088Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4743",
+    "name": "2022-2025 Batch",
+    "courseId": "6acb520049bd53f1c01f4730",
+    "admissionYear": 2022,
+    "graduationYear": 2025,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.091Z",
+    "updatedAt": "2026-10-11T09:08:16.091Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4745",
+    "name": "2024-2027 Batch",
+    "courseId": "6acb520049bd53f1c01f4733",
+    "admissionYear": 2024,
+    "graduationYear": 2027,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.095Z",
+    "updatedAt": "2026-10-11T09:08:16.095Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4747",
+    "name": "2023-2026 Batch",
+    "courseId": "6acb520049bd53f1c01f4733",
+    "admissionYear": 2023,
+    "graduationYear": 2026,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.100Z",
+    "updatedAt": "2026-10-11T09:08:16.100Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4749",
+    "name": "2022-2025 Batch",
+    "courseId": "6acb520049bd53f1c01f4733",
+    "admissionYear": 2022,
+    "graduationYear": 2025,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.103Z",
+    "updatedAt": "2026-10-11T09:08:16.103Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f474b",
+    "name": "2024-2027 Batch",
+    "courseId": "6acb520049bd53f1c01f4735",
+    "admissionYear": 2024,
+    "graduationYear": 2027,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.106Z",
+    "updatedAt": "2026-10-11T09:08:16.106Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f474d",
+    "name": "2023-2026 Batch",
+    "courseId": "6acb520049bd53f1c01f4735",
+    "admissionYear": 2023,
+    "graduationYear": 2026,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.110Z",
+    "updatedAt": "2026-10-11T09:08:16.110Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f474f",
+    "name": "2022-2025 Batch",
+    "courseId": "6acb520049bd53f1c01f4735",
+    "admissionYear": 2022,
+    "graduationYear": 2025,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.113Z",
+    "updatedAt": "2026-10-11T09:08:16.113Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4751",
+    "name": "2024-2027 Batch",
+    "courseId": "6acb520049bd53f1c01f4737",
+    "admissionYear": 2024,
+    "graduationYear": 2027,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.118Z",
+    "updatedAt": "2026-10-11T09:08:16.118Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4753",
+    "name": "2023-2026 Batch",
+    "courseId": "6acb520049bd53f1c01f4737",
+    "admissionYear": 2023,
+    "graduationYear": 2026,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.122Z",
+    "updatedAt": "2026-10-11T09:08:16.122Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb520049bd53f1c01f4755",
+    "name": "2022-2025 Batch",
+    "courseId": "6acb520049bd53f1c01f4737",
+    "admissionYear": 2022,
+    "graduationYear": 2025,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T09:08:16.125Z",
+    "updatedAt": "2026-10-11T09:08:16.125Z",
+    "__v": 0
+  }
+]

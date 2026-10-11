@@ -1,0 +1,193 @@
+{
+  "backupId": "backup-2026-10-11T08-54-51-832Z",
+  "timestamp": "2026-10-11T08:54:51.832Z",
+  "environment": "test",
+  "databaseName": "gasc_portal",
+  "collections": {
+    "collegetemplates": {
+      "count": 3,
+      "sizeBytes": 3161,
+      "sha256": "88a495e457d6ed9f8661eaf39d2d87de81841e40b6a869830a706d8a5ae0ba64"
+    },
+    "courses": {
+      "count": 5,
+      "sizeBytes": 1731,
+      "sha256": "33281656e35a687c9230b4cb50494962fc5ab47ca433bd85d305971ec45f2240"
+    },
+    "quizattempts": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "departments": {
+      "count": 5,
+      "sizeBytes": 2265,
+      "sha256": "4b54eaa566c5f96c430ff99ba4dc7b1935830f1c6dd8ee5e23821470a75a6537"
+    },
+    "students": {
+      "count": 9,
+      "sizeBytes": 9236,
+      "sha256": "6818b763d073f76eda4872f9ec220b9bec00b0bd676b9575b5ece4dc65b248b7"
+    },
+    "attendancerecords": {
+      "count": 15,
+      "sizeBytes": 4180,
+      "sha256": "bf398d6d1d1f6b9331ecdd1facd870f24beeb6daeac294000b34cdd1389f5ec6"
+    },
+    "aiusagerecords": {
+      "count": 95,
+      "sizeBytes": 32587,
+      "sha256": "3313d92e54f3edd3a1f5aa4a0fa1ef6886632edffc8a59545ae4af937ba7ac91"
+    },
+    "faculties": {
+      "count": 7,
+      "sizeBytes": 5229,
+      "sha256": "9c587a3ff83887cbf2637e32a757aa58870cc3ff4e13c10097bde5308b9dabf6"
+    },
+    "users": {
+      "count": 17,
+      "sizeBytes": 12669,
+      "sha256": "16339cc326d59a63595c3aac82da7758fe9de0d082534333b00958ffe37b5542"
+    },
+    "academicbatches": {
+      "count": 15,
+      "sizeBytes": 4577,
+      "sha256": "50ea52223dfd05471dfef09d7b1390a782ffb939aeebf21748152ff3341919ca"
+    },
+    "chatmessages": {
+      "count": 4,
+      "sizeBytes": 3022,
+      "sha256": "2ce9b9c2818b3348386ecb450ad45ea90590184da9c47eef970149a5b4866bb9"
+    },
+    "submissions": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "conversations": {
+      "count": 4,
+      "sizeBytes": 2152,
+      "sha256": "0ad1c0096f0658437d14df80361525c317e7a7b76f825f4f2725c09a1d9aafc1"
+    },
+    "calendarevents": {
+      "count": 3,
+      "sizeBytes": 1847,
+      "sha256": "2ee5faafcf4bbf567b23baf02aa5d31f2f38288cfb669f4a98f5d26467170ef0"
+    },
+    "facultyleaves": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "bonafiderequests": {
+      "count": 1,
+      "sizeBytes": 613,
+      "sha256": "e80690ee5eb186659452603d617652d2218bb42c639e5b774b5e775f2f906a31"
+    },
+    "payments": {
+      "count": 1,
+      "sizeBytes": 536,
+      "sha256": "c82cf6dc327a1c2a46e9e55e277986d98318def162b2bea2fad7d19cb20d5d6f"
+    },
+    "studymaterials": {
+      "count": 2,
+      "sizeBytes": 1763,
+      "sha256": "22361090acb57cc7067563a6eba50befb419890b347daf316f96a9ad85c53f24"
+    },
+    "collegeclasses": {
+      "count": 16,
+      "sizeBytes": 10438,
+      "sha256": "2a006283f4969d12b25f77cb3ec1a4d8d319d9a1ea4ed00ee2e02a71124d8e3f"
+    },
+    "attendancesessions": {
+      "count": 5,
+      "sizeBytes": 2562,
+      "sha256": "7b6e7d33fd5d5e5dd22f589cfcfcd1b098b35d81e14b2cedc4ed04f6e1bcebc4"
+    },
+    "subjects": {
+      "count": 8,
+      "sizeBytes": 3141,
+      "sha256": "b5dfef0b536edf369c88d9ac2bf38c8635fc62194d5fd5bf0f57fdcabcd6f4e8"
+    },
+    "paymentorders": {
+      "count": 30,
+      "sizeBytes": 12803,
+      "sha256": "c54d1cf00956580ff1d7d33bd021a9bbb7073fcfaa8afcc26305b3280519dff8"
+    },
+    "feestructures": {
+      "count": 1,
+      "sizeBytes": 468,
+      "sha256": "3fe091d10cbede991227435fee24831a0640b9e5740b542441e45e20e2fdcb4e"
+    },
+    "assignments": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "auditlogs": {
+      "count": 40,
+      "sizeBytes": 18343,
+      "sha256": "3c458a1c8e82ab648e366caade362546ff0533e7178735be23634da1809a4f11"
+    },
+    "announcements": {
+      "count": 2,
+      "sizeBytes": 1090,
+      "sha256": "938bd8258d522a6b99fdca18983eb9c4b9cc98ff9405c04333a2af245575e04a"
+    },
+    "notifications": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "studentacademichistories": {
+      "count": 10,
+      "sizeBytes": 4389,
+      "sha256": "1f93596a441e71fc385c740d1cb2a52f4d0f0fd00ea89362376575028011e98b"
+    },
+    "studentcomplaints": {
+      "count": 2,
+      "sizeBytes": 2378,
+      "sha256": "16ae9f2544d872b947323568740ca149535bff389105ba0ec4dda9305e234527"
+    },
+    "quizzes": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "marks": {
+      "count": 3,
+      "sizeBytes": 1203,
+      "sha256": "6302cc7c7a385beacb98d70d6eb63378ccdaa2e6ba74413b565a51d5c518965a"
+    },
+    "studentfeeaccounts": {
+      "count": 1,
+      "sizeBytes": 451,
+      "sha256": "1041c00ebc04db404840d8e0e73448cd1cd82471a50ca5711e1e512a14acaf04"
+    },
+    "assessments": {
+      "count": 2,
+      "sizeBytes": 1344,
+      "sha256": "d4fcae8c60d23d4120fa07c912dabe5325da6776e7636662f7047767e45af5bf"
+    },
+    "studentidcards": {
+      "count": 1,
+      "sizeBytes": 557,
+      "sha256": "8c503b2d739f1c9def65a4cca4340d1995e698ed19cf7ca01a526a14685d0c60"
+    },
+    "timetableslots": {
+      "count": 25,
+      "sizeBytes": 12307,
+      "sha256": "ce99237c753c4e464c1a37feed25c96062b21cf2537de21e595ea00a7758148e"
+    }
+  },
+  "files": {},
+  "overallSha256": "55c5d7a96d8bcf8410093e4d4ccb33a7f20c5009fc81e6d4adf2f38195c5690f",
+  "totalRecords": 332,
+  "totalFiles": 0,
+  "status": "VERIFIED",
+  "verificationResults": {
+    "verifiedAt": "2026-10-11T08:54:52.239Z",
+    "passed": true,
+    "details": "Backup verified successfully. 332 records and 0 files intact."
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "6acb4dcf02eff011c8eb180d",
+    "templateType": "CONDUCT",
+    "title": "Institutional Conduct and Character Certificate",
+    "version": 1,
+    "effectiveDate": "2024-01-01T00:00:00.000Z",
+    "contentTemplate": "This is to certify that {STUDENT_NAME} (Register No: {REGISTER_NO}) has been a student of {COURSE_NAME} at this institution. During the period of study, their conduct and character have been GOOD.",
+    "headerText": "GOVERNMENT ARTS AND SCIENCE COLLEGE, KUTHALAM\nMayiladuthurai District, Tamil Nadu - 609801",
+    "footerText": "Official Institution Seal and Principal Signature Certificate.",
+    "signatoryTitle": "Principal",
+    "signatoryName": "Dr. Principal, M.Sc., Ph.D.",
+    "requiredFields": [
+      "STUDENT_NAME",
+      "REGISTER_NO",
+      "COURSE_NAME"
+    ],
+    "isActive": true,
+    "uploadedBy": "Principal Office",
+    "createdAt": "2026-10-11T08:50:23.892Z",
+    "updatedAt": "2026-10-11T08:50:23.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb180c",
+    "templateType": "BONAFIDE",
+    "title": "Standard Bonafide Certificate Template",
+    "version": 1,
+    "effectiveDate": "2024-01-01T00:00:00.000Z",
+    "contentTemplate": "This is to certify that {STUDENT_NAME} (Register No: {REGISTER_NO}) is a bonafide student of Government Arts and Science College, Kuthalam, currently studying in {COURSE_NAME}, {YEAR} Year during the academic year {ACADEMIC_YEAR}.\n\nThis certificate is issued upon student request for the purpose of: {PURPOSE}.",
+    "headerText": "GOVERNMENT ARTS AND SCIENCE COLLEGE, KUTHALAM\nMayiladuthurai District, Tamil Nadu - 609801\n(Affiliated to Annamalai University)",
+    "footerText": "This certificate is digitally verified and issued through Government College Connect Portal.",
+    "signatoryTitle": "Principal",
+    "signatoryName": "Dr. Principal, M.Sc., Ph.D.",
+    "requiredFields": [
+      "STUDENT_NAME",
+      "REGISTER_NO",
+      "COURSE_NAME",
+      "YEAR",
+      "ACADEMIC_YEAR",
+      "PURPOSE"
+    ],
+    "isActive": true,
+    "uploadedBy": "Principal Office",
+    "createdAt": "2026-10-11T08:50:23.892Z",
+    "updatedAt": "2026-10-11T08:50:23.892Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb180e",
+    "templateType": "TRANSFER",
+    "title": "Official Transfer Certificate (TC) Template",
+    "version": 1,
+    "effectiveDate": "2024-01-01T00:00:00.000Z",
+    "contentTemplate": "Transfer Certificate for {STUDENT_NAME} (Reg. No: {REGISTER_NO}). Left the institution upon completion of course {COURSE_NAME}. Fee dues: Cleared. Conduct: Satisfactory.",
+    "headerText": "GOVERNMENT OF TAMIL NADU - COLLEGIATE EDUCATION DEPARTMENT\nGOVERNMENT ARTS AND SCIENCE COLLEGE, KUTHALAM",
+    "footerText": "Countersigned by Directorate of Collegiate Education, Chennai.",
+    "signatoryTitle": "Principal",
+    "signatoryName": "Dr. Principal, M.Sc., Ph.D.",
+    "requiredFields": [
+      "STUDENT_NAME",
+      "REGISTER_NO",
+      "COURSE_NAME",
+      "ACADEMIC_YEAR"
+    ],
+    "isActive": true,
+    "uploadedBy": "Principal Office",
+    "createdAt": "2026-10-11T08:50:23.892Z",
+    "updatedAt": "2026-10-11T08:50:23.892Z",
+    "__v": 0
+  }
+]

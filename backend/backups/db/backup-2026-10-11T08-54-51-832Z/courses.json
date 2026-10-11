@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6acb4ea845757119f37df371",
+    "code": "BSC-CS",
+    "name": "B.Sc. Computer Science",
+    "departmentId": "6acb4ea845757119f37df31c",
+    "degree": "UG",
+    "durationYears": 3,
+    "totalSemesters": 6,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:54:00.416Z",
+    "updatedAt": "2026-10-11T08:54:00.416Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4ea845757119f37df374",
+    "code": "BA-ENG",
+    "name": "B.A. English",
+    "departmentId": "6acb4ea845757119f37df339",
+    "degree": "UG",
+    "durationYears": 3,
+    "totalSemesters": 6,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:54:00.420Z",
+    "updatedAt": "2026-10-11T08:54:00.420Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4ea845757119f37df377",
+    "code": "BA-TAMIL",
+    "name": "B.A. Tamil",
+    "departmentId": "6acb4ea845757119f37df34e",
+    "degree": "UG",
+    "durationYears": 3,
+    "totalSemesters": 6,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:54:00.426Z",
+    "updatedAt": "2026-10-11T08:54:00.426Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4ea845757119f37df379",
+    "code": "BSC-MATHS",
+    "name": "B.Sc. Mathematics",
+    "departmentId": "6acb4ea845757119f37df368",
+    "degree": "UG",
+    "durationYears": 3,
+    "totalSemesters": 6,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:54:00.430Z",
+    "updatedAt": "2026-10-11T08:54:00.430Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4ea845757119f37df37b",
+    "code": "BCOM",
+    "name": "B.Com. Commerce",
+    "departmentId": "6acb4ea845757119f37df36d",
+    "degree": "UG",
+    "durationYears": 3,
+    "totalSemesters": 6,
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:54:00.436Z",
+    "updatedAt": "2026-10-11T08:54:00.436Z",
+    "__v": 0
+  }
+]

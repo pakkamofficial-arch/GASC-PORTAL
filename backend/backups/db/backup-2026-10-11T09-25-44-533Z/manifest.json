@@ -1,0 +1,198 @@
+{
+  "backupId": "backup-2026-10-11T09-25-44-533Z",
+  "timestamp": "2026-10-11T09:25:44.533Z",
+  "environment": "test",
+  "databaseName": "gasc_portal",
+  "collections": {
+    "collegetemplates": {
+      "count": 3,
+      "sizeBytes": 3161,
+      "sha256": "68cf895ef0af827d44228eb66c9e3fd45f5bea682bfaecf0967db9b6852f4811"
+    },
+    "courses": {
+      "count": 5,
+      "sizeBytes": 1731,
+      "sha256": "b9594757ad4c04944dc254b2ede1e090a71fe7f2511c11dbfdccb4d2a838f59c"
+    },
+    "quizattempts": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "departments": {
+      "count": 5,
+      "sizeBytes": 2265,
+      "sha256": "02aead02925405b04a7ad9ecb6d60b08e0b55cfabd27a192b3b70d4b6a34b3c6"
+    },
+    "students": {
+      "count": 9,
+      "sizeBytes": 9236,
+      "sha256": "7f2da6d22310996f3ffd136c05612f60badf9223cd1d3a2696ef637e7da36c18"
+    },
+    "attendancerecords": {
+      "count": 15,
+      "sizeBytes": 4180,
+      "sha256": "a1df5ad29e0543d4bc5be751f984617aebd99310c1e37841861c9cb7d4c65cfb"
+    },
+    "aiusagerecords": {
+      "count": 129,
+      "sizeBytes": 44249,
+      "sha256": "6e4c4f651d5efdbb70a36e1c001faa0214d635fb7af07be808310b69bd2c0f41"
+    },
+    "faculties": {
+      "count": 7,
+      "sizeBytes": 5229,
+      "sha256": "63e037bb42370dda12ba16719951891e11f0fc05f9edf1702d6e6e3f47d58404"
+    },
+    "users": {
+      "count": 17,
+      "sizeBytes": 13390,
+      "sha256": "1f6d0ec5b2bdf9a81dc450640f319564718bf93eaa59cd48b1b4c541524a8d7a"
+    },
+    "academicbatches": {
+      "count": 15,
+      "sizeBytes": 4577,
+      "sha256": "81faa1ada9cf58354bd98e4fb23d153589c8e3b6dc593ed081cd3579d74b383b"
+    },
+    "chatmessages": {
+      "count": 7,
+      "sizeBytes": 5287,
+      "sha256": "7c0ab5c027340c3571bfd922bcf2c65e741de8074673de2b1bf6fe10dcad1277"
+    },
+    "submissions": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "conversations": {
+      "count": 4,
+      "sizeBytes": 2152,
+      "sha256": "de102f537c395182f48cff4a0191240551f67ff389fc604ff1120e889b169f51"
+    },
+    "calendarevents": {
+      "count": 3,
+      "sizeBytes": 1847,
+      "sha256": "64718b00a526431d9597f46a585e16b007cdb2b4358e3a81db3c7f81be1e1cd8"
+    },
+    "facultyleaves": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "bonafiderequests": {
+      "count": 1,
+      "sizeBytes": 613,
+      "sha256": "0203a90dc20f331d082deb82f26f6a66c5d77263b09177013036d7c60c46a266"
+    },
+    "payments": {
+      "count": 1,
+      "sizeBytes": 536,
+      "sha256": "68972c9ef04929aca80e02aa4429e61308bb26ee6ae397354a48a7e68e618590"
+    },
+    "studymaterials": {
+      "count": 2,
+      "sizeBytes": 1763,
+      "sha256": "8f64a8f2650c260acd67eacc927f0ec15c4fa71b2505ae4e25732f22276f6ff3"
+    },
+    "collegeclasses": {
+      "count": 16,
+      "sizeBytes": 10438,
+      "sha256": "94f49bc50d04e1c9608880add226909d27c940ee9fe471007311564748d8ba13"
+    },
+    "aichatconversations": {
+      "count": 3,
+      "sizeBytes": 3966,
+      "sha256": "f677929ef44f05596c6075f0a56cd7af91ea6de62d21766443e873a6b86c4f7e"
+    },
+    "attendancesessions": {
+      "count": 5,
+      "sizeBytes": 2562,
+      "sha256": "e5ead1221afb6122d495435a4fdc3f9cb29dd46c9a16fd50543544e1fb650e0e"
+    },
+    "subjects": {
+      "count": 8,
+      "sizeBytes": 3141,
+      "sha256": "88c52e619504faf21247415480acb8892f7d03418e9bb6668a06707d01635118"
+    },
+    "paymentorders": {
+      "count": 32,
+      "sizeBytes": 13657,
+      "sha256": "b1986d4bbc47623a8e9119d69da321f873e6cbac357f681fdf9cab114f561a62"
+    },
+    "feestructures": {
+      "count": 1,
+      "sizeBytes": 468,
+      "sha256": "c615ac8e7edfba3d2b8d32d017c2fb97efcb25437b3e482a63f75185c0313e7e"
+    },
+    "assignments": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "auditlogs": {
+      "count": 43,
+      "sizeBytes": 19604,
+      "sha256": "d621c4fa7b1414456ae8cebbfe96b509c26dcc1c6cec6f13e64eca85e77e2769"
+    },
+    "announcements": {
+      "count": 2,
+      "sizeBytes": 1090,
+      "sha256": "4d135b721b7f517a2074f2d9827107c6826057ed2aae2867d209f6fc0acd0959"
+    },
+    "notifications": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "studentacademichistories": {
+      "count": 10,
+      "sizeBytes": 4389,
+      "sha256": "7b472c4d7bb843f11a9c980760ec52f4af19d49eadc1a8f38dfc5ae03e52d7b8"
+    },
+    "studentcomplaints": {
+      "count": 2,
+      "sizeBytes": 2378,
+      "sha256": "ecd0fe4d4a538fa88e80558f45c2bbde5c1fa040ed98025c384ee532d52a2e9c"
+    },
+    "quizzes": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "marks": {
+      "count": 3,
+      "sizeBytes": 1203,
+      "sha256": "e9ac9b0b2536ab1173b2cb03bb7abfa893838dee0c972afb7bdc98b74751b875"
+    },
+    "studentfeeaccounts": {
+      "count": 1,
+      "sizeBytes": 451,
+      "sha256": "366e1d154cfb5f383a740f4810c747bf8fdc47fe4f5f1504cb1ec8b9cfcb4070"
+    },
+    "assessments": {
+      "count": 2,
+      "sizeBytes": 1344,
+      "sha256": "90387b0ccaad2f2bc1d56a56e039c022f126797df660fc71d3e8f11f1cb45643"
+    },
+    "studentidcards": {
+      "count": 1,
+      "sizeBytes": 557,
+      "sha256": "c34498a22bf712095595fdccd7ef98a4cf7bfd0d29bc399d44a37e2b3984b2a4"
+    },
+    "timetableslots": {
+      "count": 25,
+      "sizeBytes": 12307,
+      "sha256": "0317e633e8e24ef20cdbee13b68dcb7f155a9cd36bd4fb68d5a5f91f3c2828d1"
+    }
+  },
+  "files": {},
+  "overallSha256": "56f08f06121f31c7137f445c57cf4762def1cf49a58d3f4b4d8b29e4c2b4c57b",
+  "totalRecords": 377,
+  "totalFiles": 0,
+  "status": "VERIFIED",
+  "verificationResults": {
+    "verifiedAt": "2026-10-11T09:25:45.063Z",
+    "passed": true,
+    "details": "Backup verified successfully. 377 records and 0 files intact."
+  }
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "_id": "6acb4d3e9384135123c7f46a",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb49217eec014fbbb81811",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "wuLQ8cIfBfPLZQM0foZuON4V4+gteZf2mbxNUwTqy9N3L6JauBwFT0B7NdbmL+4avCBWmQ==",
+    "nonce": "BjY1aGljWXyqGgteFiM8L4MpR3XFvxwR",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb49217eec014fbbb81811",
+        "readAt": "2026-10-11T08:47:58.251Z",
+        "_id": "6acb4d3e9384135123c7f46b"
+      }
+    ],
+    "createdAt": "2026-10-11T08:47:58.277Z",
+    "updatedAt": "2026-10-11T08:47:58.277Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4da796177c9c93ec21c4",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb49217eec014fbbb81811",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "H55FaEp9G3IdCoGW+A04IeTxT34871GZ8cn33wNCl/EFQ8S7C8B1rCbeei4iJcOYpylB1Q==",
+    "nonce": "bLbyyL+WuDzy5fkDmjB4QbcnelAcR0wc",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb49217eec014fbbb81811",
+        "readAt": "2026-10-11T08:49:43.485Z",
+        "_id": "6acb4da796177c9c93ec21c5"
+      }
+    ],
+    "createdAt": "2026-10-11T08:49:43.495Z",
+    "updatedAt": "2026-10-11T08:49:43.495Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4ddff9d0ed9cf166161d",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb4dcf02eff011c8eb1735",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "4WnlizdrCK1JvFOuoPwPq6fS3/7a+ZuUe73Ow8vEjYoIvGl9ILLxtpZO0u6+B0o/yCHIkw==",
+    "nonce": "dJEmHSVjCX//pUZeuwvEkhFZBv43b85F",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb4dcf02eff011c8eb1735",
+        "readAt": "2026-10-11T08:50:39.187Z",
+        "_id": "6acb4ddff9d0ed9cf166161e"
+      }
+    ],
+    "createdAt": "2026-10-11T08:50:39.208Z",
+    "updatedAt": "2026-10-11T08:50:39.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4ec9304024b674d0de2d",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb4ea945757119f37df3ad",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "o83FspYFThNrwTYZPVaduzjDckER3KZOvgnwlSfn4oZiNOSsUE5RocixYlHAmC1Flwm85A==",
+    "nonce": "6+dPPOhLlQooZAgYb//hdKuPY66iutQd",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb4ea945757119f37df3ad",
+        "readAt": "2026-10-11T08:54:33.981Z",
+        "_id": "6acb4ec9304024b674d0de2e"
+      }
+    ],
+    "createdAt": "2026-10-11T08:54:33.997Z",
+    "updatedAt": "2026-10-11T08:54:33.997Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb51dc9f70ad8213ebde98",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb4ea945757119f37df3ad",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "n7CPdkZ4i6lsOeV5NbaAEpLV7iCgwlvshHBdv/df+Y6s6ihUnlWUuYGpkamThIIfLqzESw==",
+    "nonce": "G/g7D5Y8Bhu/hm8VDY2bAxkXoxB0Vaj4",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb4ea945757119f37df3ad",
+        "readAt": "2026-10-11T09:07:40.163Z",
+        "_id": "6acb51dc9f70ad8213ebde99"
+      }
+    ],
+    "createdAt": "2026-10-11T09:07:40.184Z",
+    "updatedAt": "2026-10-11T09:07:40.184Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb52132cc0bf40968acc96",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb520149bd53f1c01f4769",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "keEYtYfqVgWM33uMD6jG6Lb/V+JyI39aJ9DTkuJn6av9DP4t+jaN/ATb3cFL4YxsucvkmA==",
+    "nonce": "uOcKaYKZ0LTO8PhpZh+4Q/TB/EZZIfa5",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb520149bd53f1c01f4769",
+        "readAt": "2026-10-11T09:08:35.918Z",
+        "_id": "6acb52132cc0bf40968acc97"
+      }
+    ],
+    "createdAt": "2026-10-11T09:08:35.939Z",
+    "updatedAt": "2026-10-11T09:08:35.939Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb560dc85a98ffe7c5112d",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb55d79a6ae095ae6f467e",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "2hpklLMhJ5K2rXaO96fnV35AkHnjzFPgtfZMCL055AsvsS42v3TL3phd4o/9DLskU2EqZw==",
+    "nonce": "JBDi62ZESUA2L6N6IR/53WCS9XTRbPOG",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb55d79a6ae095ae6f467e",
+        "readAt": "2026-10-11T09:25:33.698Z",
+        "_id": "6acb560dc85a98ffe7c5112e"
+      }
+    ],
+    "createdAt": "2026-10-11T09:25:33.722Z",
+    "updatedAt": "2026-10-11T09:25:33.722Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c003f941dfcdaa3c963",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb5bc75d1168dce199eb5d",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "1g7ClUsrUz4req4kpFZh6RvT0aVaKQPs38dFOPzzI6QlQlUTT7nNf1QOiaFtA2XgpAh1VQ==",
+    "nonce": "5Lj+49ERaRCYx4LfrZEmHB4+29Arox4D",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb5bc75d1168dce199eb5d",
+        "readAt": "2026-10-11T09:50:56.092Z",
+        "_id": "6acb5c003f941dfcdaa3c964"
+      }
+    ],
+    "createdAt": "2026-10-11T09:50:56.105Z",
+    "updatedAt": "2026-10-11T09:50:56.105Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7acdde6e7ef6a59060",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb5c515ce513bcbe9431ee",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "QzJ0pku/43jdGrD5F9//wqF2b4Z/RKDoc3vpVPLUFrXQVedx6q4lxACqIKFyCiYiaMu4UQ==",
+    "nonce": "wh5TxQFt/Kjqj6rfdRqfSSN1aHEoSh5z",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb5c515ce513bcbe9431ee",
+        "readAt": "2026-10-11T09:52:58.410Z",
+        "_id": "6acb5c7acdde6e7ef6a59061"
+      }
+    ],
+    "createdAt": "2026-10-11T09:52:58.420Z",
+    "updatedAt": "2026-10-11T09:52:58.420Z",
+    "__v": 0
+  }
+]

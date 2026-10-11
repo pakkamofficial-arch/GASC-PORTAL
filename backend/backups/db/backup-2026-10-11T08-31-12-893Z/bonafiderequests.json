@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "6acb49217eec014fbbb818e6",
+    "studentId": "6acb49217eec014fbbb81858",
+    "purpose": "BUS_PASS",
+    "additionalDetails": "TNSTC Student Concession Bus Pass from Kuthalam to Mayiladuthurai route",
+    "status": "APPROVED",
+    "certificateNumber": "GASC/BONA/2026/0014",
+    "templateVersion": 1,
+    "approvedBy": "6acb49217eec014fbbb8180f",
+    "approvedAt": "2026-10-11T08:30:25.676Z",
+    "issuedAt": "2026-10-11T08:30:25.676Z",
+    "academicYear": "2024-2025",
+    "history": [],
+    "createdAt": "2026-10-11T08:30:25.678Z",
+    "updatedAt": "2026-10-11T08:30:25.678Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb493f5a529c18f66cec6a",
+    "studentId": "6acb49217eec014fbbb81858",
+    "purpose": "BANK_ACCOUNT",
+    "status": "SUBMITTED",
+    "templateVersion": 1,
+    "academicYear": "2023-2026",
+    "history": [],
+    "createdAt": "2026-10-11T08:30:55.019Z",
+    "updatedAt": "2026-10-11T08:30:55.019Z",
+    "__v": 0
+  }
+]

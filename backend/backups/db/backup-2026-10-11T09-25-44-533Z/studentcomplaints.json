@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "6acb55d89a6ae095ae6f4763",
+    "ticketNumber": "CMP-2026-0001",
+    "studentId": "6acb55d79a6ae095ae6f46c5",
+    "category": "INFRASTRUCTURE",
+    "subject": "Projector display flickering in Smart Classroom 2",
+    "description": "The HDMI connection and bulb on the ceiling projector in Computer Science Lab 2 flickers continuously during the afternoon session.",
+    "status": "UNDER_REVIEW",
+    "priority": "MEDIUM",
+    "internalNotes": "Technician from Mayiladuthurai IT Services contacted. Scheduled for maintenance on Saturday.",
+    "history": [
+      {
+        "status": "SUBMITTED",
+        "changedBy": "6acb55d79a6ae095ae6f46c3",
+        "comment": "Grievance submitted by student",
+        "timestamp": "2026-10-09T09:24:40.178Z",
+        "_id": "6acb55d89a6ae095ae6f4764"
+      },
+      {
+        "status": "UNDER_REVIEW",
+        "changedBy": "6acb55d79a6ae095ae6f467c",
+        "comment": "Assigned to Computer Science Department maintenance representative",
+        "timestamp": "2026-10-10T09:24:40.178Z",
+        "_id": "6acb55d89a6ae095ae6f4765"
+      }
+    ],
+    "createdAt": "2026-10-11T09:24:40.181Z",
+    "updatedAt": "2026-10-11T09:24:40.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb55f3aa4f0639dac9043a",
+    "ticketNumber": "CMP-2026-0002",
+    "studentId": "6acb55d79a6ae095ae6f46c5",
+    "category": "ACADEMIC",
+    "subject": "Clarification regarding laboratory practical timetable",
+    "description": "Need additional lab practice sessions for DBMS SQL queries before CIA-2.",
+    "status": "UNDER_REVIEW",
+    "priority": "MEDIUM",
+    "history": [
+      {
+        "status": "SUBMITTED",
+        "changedBy": "6acb55d79a6ae095ae6f46c3",
+        "comment": "Grievance submitted by student",
+        "timestamp": "2026-10-11T09:25:07.083Z",
+        "_id": "6acb55f3aa4f0639dac9043b"
+      },
+      {
+        "status": "UNDER_REVIEW",
+        "changedBy": "6acb55d79a6ae095ae6f467c",
+        "comment": "Your request is under review by the department.",
+        "timestamp": "2026-10-11T09:25:07.183Z",
+        "_id": "6acb55f3aa4f0639dac90442"
+      }
+    ],
+    "createdAt": "2026-10-11T09:25:07.107Z",
+    "updatedAt": "2026-10-11T09:25:07.193Z",
+    "__v": 1,
+    "internalNotes": "INTERNAL CONFIDENTIAL: Discuss with Lab Assistant Mr. Rajan.",
+    "officialResponse": "Your request is under review by the department."
+  }
+]

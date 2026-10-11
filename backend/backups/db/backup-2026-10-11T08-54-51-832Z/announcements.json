@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "6acb4eaa45757119f37df496",
+    "title": "Annamalai University Semester Examination Fee Circular",
+    "content": "All undergraduate students are advised to remit their semester examination fees before the specified deadline.",
+    "targetRole": "ALL",
+    "priority": "HIGH",
+    "publishedBy": "6acb4ea945757119f37df3ab",
+    "publishedAt": "2026-10-09T08:54:02.262Z",
+    "createdAt": "2026-10-11T08:54:02.264Z",
+    "updatedAt": "2026-10-11T08:54:02.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4eaa45757119f37df497",
+    "title": "GASC Special Seminar on Artificial Intelligence in Tamil Computing",
+    "content": "Department of Computer Science cordially invites all students to a guest lecture on Natural Language Processing for Tamil by eminent professors.",
+    "targetRole": "STUDENT",
+    "departmentId": "6acb4ea845757119f37df31c",
+    "priority": "NORMAL",
+    "publishedBy": "6acb4ea945757119f37df3ad",
+    "publishedAt": "2026-10-10T08:54:02.262Z",
+    "createdAt": "2026-10-11T08:54:02.264Z",
+    "updatedAt": "2026-10-11T08:54:02.264Z",
+    "__v": 0
+  }
+]

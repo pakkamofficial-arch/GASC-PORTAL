@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "6acb4dcd02eff011c8eb16a3",
+    "code": "CS",
+    "name": "Department of Computer Science",
+    "headOfDepartment": "Dr. S. Sundaram, M.Sc., M.Phil., Ph.D.",
+    "description": "Empowering rural students with cutting-edge IT and computing skills.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:50:21.904Z",
+    "updatedAt": "2026-10-11T08:50:23.470Z",
+    "__v": 0,
+    "hodFacultyId": "6acb4dcf02eff011c8eb1737"
+  },
+  {
+    "_id": "6acb4dcd02eff011c8eb16c0",
+    "code": "ENGLISH",
+    "name": "Department of English",
+    "headOfDepartment": "Prof. R. Kavitha, M.A., M.Phil.",
+    "description": "Fostering English language proficiency, literature appreciation and communication excellence.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:50:21.987Z",
+    "updatedAt": "2026-10-11T08:50:23.476Z",
+    "__v": 0,
+    "hodFacultyId": "6acb4dcf02eff011c8eb173d"
+  },
+  {
+    "_id": "6acb4dce02eff011c8eb16d7",
+    "code": "TAMIL",
+    "name": "Department of Tamil Literature",
+    "headOfDepartment": "Dr. K. Arumugam, M.A., Ph.D.",
+    "description": "Promoting classical and modern Tamil literary traditions and linguistic heritage.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:50:22.032Z",
+    "updatedAt": "2026-10-11T08:50:23.479Z",
+    "__v": 0,
+    "hodFacultyId": "6acb4dcf02eff011c8eb1741"
+  },
+  {
+    "_id": "6acb4dce02eff011c8eb16e4",
+    "code": "MATHS",
+    "name": "Department of Mathematics",
+    "headOfDepartment": "Dr. M. Sangeetha, M.Sc., Ph.D.",
+    "description": "Building strong foundations in pure and applied mathematics and quantitative reasoning.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:50:22.057Z",
+    "updatedAt": "2026-10-11T08:50:23.481Z",
+    "__v": 0,
+    "hodFacultyId": "6acb4dcf02eff011c8eb1745"
+  },
+  {
+    "_id": "6acb4dce02eff011c8eb16ec",
+    "code": "COMMERCE",
+    "name": "Department of Commerce",
+    "headOfDepartment": "Prof. P. Venkatesh, M.Com., M.Phil.",
+    "description": "Preparing students for accounting, taxation, corporate finance and business leadership.",
+    "status": "ACTIVE",
+    "createdAt": "2026-10-11T08:50:22.072Z",
+    "updatedAt": "2026-10-11T08:50:23.484Z",
+    "__v": 0,
+    "hodFacultyId": "6acb4dcf02eff011c8eb1749"
+  }
+]

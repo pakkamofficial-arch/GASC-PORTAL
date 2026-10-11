@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "6acb5c515ce513bcbe9432ba",
+    "assessmentId": "6acb5c515ce513bcbe9432b7",
+    "studentId": "6acb5c515ce513bcbe94323b",
+    "subjectId": "6acb5c505ce513bcbe9431dc",
+    "marksObtained": 24,
+    "isAbsent": false,
+    "grade": "O",
+    "enteredBy": "6acb5c515ce513bcbe9431ee",
+    "createdAt": "2026-10-11T09:52:17.816Z",
+    "updatedAt": "2026-10-11T09:52:17.816Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c515ce513bcbe9432bb",
+    "assessmentId": "6acb5c515ce513bcbe9432b7",
+    "studentId": "6acb5c515ce513bcbe943241",
+    "subjectId": "6acb5c505ce513bcbe9431dc",
+    "marksObtained": 19,
+    "isAbsent": false,
+    "grade": "A",
+    "enteredBy": "6acb5c515ce513bcbe9431ee",
+    "createdAt": "2026-10-11T09:52:17.816Z",
+    "updatedAt": "2026-10-11T09:52:17.816Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c515ce513bcbe9432b9",
+    "assessmentId": "6acb5c515ce513bcbe9432b7",
+    "studentId": "6acb5c515ce513bcbe943235",
+    "subjectId": "6acb5c505ce513bcbe9431dc",
+    "marksObtained": 22,
+    "isAbsent": false,
+    "grade": "A+",
+    "enteredBy": "6acb5c515ce513bcbe9431ee",
+    "createdAt": "2026-10-11T09:52:17.815Z",
+    "updatedAt": "2026-10-11T09:52:17.815Z",
+    "__v": 0
+  }
+]

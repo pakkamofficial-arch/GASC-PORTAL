@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "6acb4dcf02eff011c8eb17da",
+    "sessionId": "6acb4dcf02eff011c8eb17d6",
+    "studentId": "6acb4dcf02eff011c8eb1788",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.842Z",
+    "updatedAt": "2026-10-11T08:50:23.842Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17d8",
+    "sessionId": "6acb4dcf02eff011c8eb17d6",
+    "studentId": "6acb4dcf02eff011c8eb177c",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-11T08:50:23.841Z",
+    "updatedAt": "2026-10-11T08:50:23.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17d9",
+    "sessionId": "6acb4dcf02eff011c8eb17d6",
+    "studentId": "6acb4dcf02eff011c8eb1782",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.841Z",
+    "updatedAt": "2026-10-11T08:50:23.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17e1",
+    "sessionId": "6acb4dcf02eff011c8eb17de",
+    "studentId": "6acb4dcf02eff011c8eb1782",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.850Z",
+    "updatedAt": "2026-10-11T08:50:23.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17e0",
+    "sessionId": "6acb4dcf02eff011c8eb17de",
+    "studentId": "6acb4dcf02eff011c8eb177c",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-11T08:50:23.850Z",
+    "updatedAt": "2026-10-11T08:50:23.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17e2",
+    "sessionId": "6acb4dcf02eff011c8eb17de",
+    "studentId": "6acb4dcf02eff011c8eb1788",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.850Z",
+    "updatedAt": "2026-10-11T08:50:23.850Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17e9",
+    "sessionId": "6acb4dcf02eff011c8eb17e6",
+    "studentId": "6acb4dcf02eff011c8eb1782",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.855Z",
+    "updatedAt": "2026-10-11T08:50:23.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17ea",
+    "sessionId": "6acb4dcf02eff011c8eb17e6",
+    "studentId": "6acb4dcf02eff011c8eb1788",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.855Z",
+    "updatedAt": "2026-10-11T08:50:23.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17e8",
+    "sessionId": "6acb4dcf02eff011c8eb17e6",
+    "studentId": "6acb4dcf02eff011c8eb177c",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-11T08:50:23.855Z",
+    "updatedAt": "2026-10-11T08:50:23.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17f0",
+    "sessionId": "6acb4dcf02eff011c8eb17ee",
+    "studentId": "6acb4dcf02eff011c8eb177c",
+    "status": "ABSENT",
+    "remarks": "Fever / Leave letter submitted",
+    "createdAt": "2026-10-11T08:50:23.863Z",
+    "updatedAt": "2026-10-11T08:50:23.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17f1",
+    "sessionId": "6acb4dcf02eff011c8eb17ee",
+    "studentId": "6acb4dcf02eff011c8eb1782",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.863Z",
+    "updatedAt": "2026-10-11T08:50:23.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17f2",
+    "sessionId": "6acb4dcf02eff011c8eb17ee",
+    "studentId": "6acb4dcf02eff011c8eb1788",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.863Z",
+    "updatedAt": "2026-10-11T08:50:23.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17fa",
+    "sessionId": "6acb4dcf02eff011c8eb17f6",
+    "studentId": "6acb4dcf02eff011c8eb1788",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.869Z",
+    "updatedAt": "2026-10-11T08:50:23.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17f9",
+    "sessionId": "6acb4dcf02eff011c8eb17f6",
+    "studentId": "6acb4dcf02eff011c8eb1782",
+    "status": "PRESENT",
+    "createdAt": "2026-10-11T08:50:23.869Z",
+    "updatedAt": "2026-10-11T08:50:23.869Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb17f8",
+    "sessionId": "6acb4dcf02eff011c8eb17f6",
+    "studentId": "6acb4dcf02eff011c8eb177c",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-11T08:50:23.869Z",
+    "updatedAt": "2026-10-11T08:50:23.869Z",
+    "__v": 0
+  }
+]

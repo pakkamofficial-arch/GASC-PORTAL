@@ -1,0 +1,193 @@
+{
+  "backupId": "backup-2026-10-11T09-09-24-021Z",
+  "timestamp": "2026-10-11T09:09:24.021Z",
+  "environment": "test",
+  "databaseName": "gasc_portal",
+  "collections": {
+    "collegetemplates": {
+      "count": 3,
+      "sizeBytes": 3161,
+      "sha256": "d12847cc3ef13070a3cb8e8ebd3c5f67c6b7ad2f074de1c7d489bc672b9410db"
+    },
+    "courses": {
+      "count": 5,
+      "sizeBytes": 1731,
+      "sha256": "b4b5f0996f2151e0b95aabadc10c5305fc431b2acaf5ce9d851de962a58e283f"
+    },
+    "quizattempts": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "departments": {
+      "count": 5,
+      "sizeBytes": 2265,
+      "sha256": "a0b4334f0f3dec56f24d83820221355d46607ac6f0c99629825a757cd914f7bc"
+    },
+    "students": {
+      "count": 9,
+      "sizeBytes": 9236,
+      "sha256": "3991cf2dcaa3728b0e373e52a083c1928f7d5a79f6e5ae0713f157f92827f454"
+    },
+    "attendancerecords": {
+      "count": 15,
+      "sizeBytes": 4180,
+      "sha256": "de35946a422fa90466a46d4ab65534c3a569e5cd463a6161fe3562ab15ccaef2"
+    },
+    "aiusagerecords": {
+      "count": 101,
+      "sizeBytes": 34645,
+      "sha256": "85ed23c756b3a0a2f2b22979fd15e40954384ee14bc26fae604b9082f02c4d90"
+    },
+    "faculties": {
+      "count": 7,
+      "sizeBytes": 5229,
+      "sha256": "c2bdb3ef2bc7c1c4520ac80ed50c4d0e62bc4397f00c10d84cd98e2eb7389571"
+    },
+    "users": {
+      "count": 17,
+      "sizeBytes": 12669,
+      "sha256": "2f5d5889e5798beb6b31e698f13c28a11a3a31afcb4da078cc55ca3c280727d8"
+    },
+    "academicbatches": {
+      "count": 15,
+      "sizeBytes": 4577,
+      "sha256": "bfcdadb365860c02013a222920fc1c580d6cba302e57d8f4b4a5cb0de7a874c8"
+    },
+    "chatmessages": {
+      "count": 6,
+      "sizeBytes": 4532,
+      "sha256": "ce3787f7de93c3d536d0951678a02a90f6693cae1603d3aed8fe0b6cf551b121"
+    },
+    "submissions": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "conversations": {
+      "count": 4,
+      "sizeBytes": 2152,
+      "sha256": "1f7d8731a9ec0c318a7390ba41e2314a641e8c40b768f8d50c708fde257b447d"
+    },
+    "calendarevents": {
+      "count": 3,
+      "sizeBytes": 1847,
+      "sha256": "904b03d45c9b455c3221b1b861152c59de88cb8e6b539b0bcf1ba013302d5cca"
+    },
+    "facultyleaves": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "bonafiderequests": {
+      "count": 1,
+      "sizeBytes": 613,
+      "sha256": "c286899b108dc91a79c98a5b2b2241f7c88bb6350f7dba4d74d099cffa0a113d"
+    },
+    "payments": {
+      "count": 1,
+      "sizeBytes": 536,
+      "sha256": "eadf5ddfbb460231750c07fcab07690dbb1a99e4b6aa1fd7af180bd8a8cfb0ff"
+    },
+    "studymaterials": {
+      "count": 2,
+      "sizeBytes": 1763,
+      "sha256": "2edc3d88fa756494b73e4c5435e57f08b6aa3de4657d391370be42dede89f2b6"
+    },
+    "collegeclasses": {
+      "count": 16,
+      "sizeBytes": 10438,
+      "sha256": "9183252de9ffea94dd626c66a0940b39c2a066cb19637cc9deb38c9bb775c52d"
+    },
+    "attendancesessions": {
+      "count": 5,
+      "sizeBytes": 2562,
+      "sha256": "b3acec9c789d1c4ba1df375ad24d6841e4b798218b13ebf21b2c783db7d2a464"
+    },
+    "subjects": {
+      "count": 8,
+      "sizeBytes": 3141,
+      "sha256": "fac6b02eee415aeef4379cf687ee5ccf6951e5ea4539e0eb52ad999c16549425"
+    },
+    "paymentorders": {
+      "count": 31,
+      "sizeBytes": 13230,
+      "sha256": "be15228583398cf0131d1a6188d2103d205c86f29c2afd2cef7a2452be76d0bd"
+    },
+    "feestructures": {
+      "count": 1,
+      "sizeBytes": 468,
+      "sha256": "2682915054dd397611d1b8d5d45d42e03124095fea7b2b8c248838a32b3141e7"
+    },
+    "assignments": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "auditlogs": {
+      "count": 40,
+      "sizeBytes": 18343,
+      "sha256": "b4493845de16fcbc201b179130c1be1316fa6591b4d735edef45e12b39e00c62"
+    },
+    "announcements": {
+      "count": 2,
+      "sizeBytes": 1090,
+      "sha256": "53fada737c3b13cc67047155e3607865d2c04570b1f14dc62d33d2cc8dee76b3"
+    },
+    "notifications": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "studentacademichistories": {
+      "count": 10,
+      "sizeBytes": 4389,
+      "sha256": "ea97b49d8de9d3d8f39552c89c29e359cd2b37857a3987dfd5c95dfeada59ef2"
+    },
+    "studentcomplaints": {
+      "count": 2,
+      "sizeBytes": 2378,
+      "sha256": "603e6544a2722595ecde5cd04ea11f6797b1d41ce26b062a946c2b48fe417652"
+    },
+    "quizzes": {
+      "count": 0,
+      "sizeBytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "marks": {
+      "count": 3,
+      "sizeBytes": 1203,
+      "sha256": "7ac30627571986849973e71d0956a83301e7b8a397fc2bdef5170207dfe19862"
+    },
+    "studentfeeaccounts": {
+      "count": 1,
+      "sizeBytes": 451,
+      "sha256": "75de2649df6064427b49a5c50b6f264128e8d3b832d568e21f136e90f50e57f9"
+    },
+    "assessments": {
+      "count": 2,
+      "sizeBytes": 1344,
+      "sha256": "8c117d8d7e96d3e065dc5648d23091f199aeb75e9a39ba6b10b84c12a2705f13"
+    },
+    "studentidcards": {
+      "count": 1,
+      "sizeBytes": 557,
+      "sha256": "7f248c6e8e6dca798882e0b3cbd7025ff150efb74cb222b822424cf304f4c489"
+    },
+    "timetableslots": {
+      "count": 25,
+      "sizeBytes": 12307,
+      "sha256": "d2872830a6b1007da56f99a02d5c42c612b5043d7495d5e4436482404ffca4ea"
+    }
+  },
+  "files": {},
+  "overallSha256": "c81c7d0773dac3ae167523316155a2293e5170cbd835a498fb79d4664f976123",
+  "totalRecords": 341,
+  "totalFiles": 0,
+  "status": "VERIFIED",
+  "verificationResults": {
+    "verifiedAt": "2026-10-11T09:09:24.635Z",
+    "passed": true,
+    "details": "Backup verified successfully. 341 records and 0 files intact."
+  }
+}

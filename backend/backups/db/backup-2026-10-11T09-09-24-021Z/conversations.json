@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "6acb4a3e0b5e71f385d0cab3",
+    "type": "WHOLE_COLLEGE",
+    "name": "Whole College Connect",
+    "description": "Official institutional communication group for students, faculty, and administration.",
+    "isAnnouncementOnly": false,
+    "members": [],
+    "keyVersion": 1,
+    "isArchived": false,
+    "encryptedGroupKeys": [],
+    "createdAt": "2026-10-11T08:35:10.265Z",
+    "updatedAt": "2026-10-11T09:08:35.956Z",
+    "__v": 0,
+    "lastMessage": {
+      "messageId": "6acb52132cc0bf40968acc96",
+      "senderId": "6acb520149bd53f1c01f4769",
+      "timestamp": "2026-10-11T09:08:35.939Z"
+    }
+  },
+  {
+    "_id": "6acb4a3e0b5e71f385d0cab7",
+    "type": "FACULTY_ONLY",
+    "name": "Faculty Communication Group",
+    "description": "Confidential channel strictly restricted to verified college faculty and academic leadership.",
+    "isAnnouncementOnly": false,
+    "members": [],
+    "keyVersion": 1,
+    "isArchived": false,
+    "encryptedGroupKeys": [],
+    "createdAt": "2026-10-11T08:35:10.302Z",
+    "updatedAt": "2026-10-11T08:35:10.302Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4a3e0b5e71f385d0caba",
+    "type": "PRINCIPAL_RESTRICTED",
+    "name": "Principal & Administration Restricted",
+    "description": "Confidential executive channel restricted exclusively to the Principal and authorized leadership.",
+    "isAnnouncementOnly": false,
+    "members": [],
+    "keyVersion": 1,
+    "isArchived": false,
+    "encryptedGroupKeys": [],
+    "createdAt": "2026-10-11T08:35:10.310Z",
+    "updatedAt": "2026-10-11T08:35:10.310Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4a3e0b5e71f385d0cabf",
+    "type": "CLASS_GROUP",
+    "name": "B.Sc. Computer Science — 3rd Year",
+    "description": "Official class communications for 3rd Year Computer Science students and assigned faculty.",
+    "classId": "6acb49217eec014fbbb81838",
+    "departmentId": "6acb491f7eec014fbbb81784",
+    "year": 3,
+    "isAnnouncementOnly": false,
+    "members": [],
+    "keyVersion": 1,
+    "isArchived": false,
+    "encryptedGroupKeys": [],
+    "createdAt": "2026-10-11T08:35:10.347Z",
+    "updatedAt": "2026-10-11T08:35:10.347Z",
+    "__v": 0
+  }
+]

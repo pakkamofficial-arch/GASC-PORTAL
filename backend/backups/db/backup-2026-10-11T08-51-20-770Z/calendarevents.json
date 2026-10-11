@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "6acb4dcf02eff011c8eb1822",
+    "title": "Annamalai University Semester Theory Examinations",
+    "description": "End semester theory examinations for all UG departments.",
+    "startDate": "2026-05-02T00:00:00.000Z",
+    "endDate": "2026-05-25T00:00:00.000Z",
+    "type": "EXAM",
+    "targetAudience": "ALL",
+    "venue": "Main Exam Halls 1-6",
+    "organizer": "Examination Cell",
+    "isPublished": true,
+    "publishedBy": "6acb4dcf02eff011c8eb1733",
+    "isDeleted": false,
+    "createdAt": "2026-10-11T08:50:23.916Z",
+    "updatedAt": "2026-10-11T08:50:23.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb1823",
+    "title": "Tamil New Year & Dr. Ambedkar Jayanti Holiday",
+    "description": "State government gazetted public holiday for college.",
+    "startDate": "2026-04-14T00:00:00.000Z",
+    "endDate": "2026-04-14T00:00:00.000Z",
+    "type": "HOLIDAY",
+    "targetAudience": "ALL",
+    "venue": "Campus Wide",
+    "organizer": "Principal Office",
+    "isPublished": true,
+    "publishedBy": "6acb4dcf02eff011c8eb1733",
+    "isDeleted": false,
+    "createdAt": "2026-10-11T08:50:23.916Z",
+    "updatedAt": "2026-10-11T08:50:23.916Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4dcf02eff011c8eb1824",
+    "title": "Inter-College State Level Tech Fest - Kuthalam GASC 2026",
+    "description": "Paper presentations, code debugging, web development competitions.",
+    "startDate": "2026-04-24T00:00:00.000Z",
+    "endDate": "2026-04-25T00:00:00.000Z",
+    "type": "SEMINAR",
+    "targetAudience": "ALL",
+    "venue": "College Auditorium & Computer Center",
+    "organizer": "Department of Computer Science",
+    "isPublished": true,
+    "publishedBy": "6acb4dcf02eff011c8eb1735",
+    "isDeleted": false,
+    "createdAt": "2026-10-11T08:50:23.916Z",
+    "updatedAt": "2026-10-11T08:50:23.916Z",
+    "__v": 0
+  }
+]

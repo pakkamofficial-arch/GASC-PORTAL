@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "6acb433d6111bb681937b29b",
+    "title": "Annamalai University Semester Theory Examinations",
+    "description": "End semester theory examinations for all UG departments.",
+    "startDate": "2026-05-02T00:00:00.000Z",
+    "endDate": "2026-05-25T00:00:00.000Z",
+    "type": "EXAM",
+    "targetAudience": "ALL",
+    "venue": "Main Exam Halls 1-6",
+    "organizer": "Examination Cell",
+    "isPublished": true,
+    "publishedBy": "6acb433c6111bb681937b1ac",
+    "isDeleted": false,
+    "createdAt": "2026-10-11T08:05:17.181Z",
+    "updatedAt": "2026-10-11T08:05:17.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb433d6111bb681937b29d",
+    "title": "Inter-College State Level Tech Fest - Kuthalam GASC 2026",
+    "description": "Paper presentations, code debugging, web development competitions.",
+    "startDate": "2026-04-24T00:00:00.000Z",
+    "endDate": "2026-04-25T00:00:00.000Z",
+    "type": "SEMINAR",
+    "targetAudience": "ALL",
+    "venue": "College Auditorium & Computer Center",
+    "organizer": "Department of Computer Science",
+    "isPublished": true,
+    "publishedBy": "6acb433c6111bb681937b1ae",
+    "isDeleted": false,
+    "createdAt": "2026-10-11T08:05:17.181Z",
+    "updatedAt": "2026-10-11T08:05:17.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb433d6111bb681937b29c",
+    "title": "Tamil New Year & Dr. Ambedkar Jayanti Holiday",
+    "description": "State government gazetted public holiday for college.",
+    "startDate": "2026-04-14T00:00:00.000Z",
+    "endDate": "2026-04-14T00:00:00.000Z",
+    "type": "HOLIDAY",
+    "targetAudience": "ALL",
+    "venue": "Campus Wide",
+    "organizer": "Principal Office",
+    "isPublished": true,
+    "publishedBy": "6acb433c6111bb681937b1ac",
+    "isDeleted": false,
+    "createdAt": "2026-10-11T08:05:17.181Z",
+    "updatedAt": "2026-10-11T08:05:17.181Z",
+    "__v": 0
+  }
+]

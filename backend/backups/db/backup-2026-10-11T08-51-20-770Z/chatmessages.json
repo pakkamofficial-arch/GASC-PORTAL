@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "6acb4d3e9384135123c7f46a",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb49217eec014fbbb81811",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "wuLQ8cIfBfPLZQM0foZuON4V4+gteZf2mbxNUwTqy9N3L6JauBwFT0B7NdbmL+4avCBWmQ==",
+    "nonce": "BjY1aGljWXyqGgteFiM8L4MpR3XFvxwR",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb49217eec014fbbb81811",
+        "readAt": "2026-10-11T08:47:58.251Z",
+        "_id": "6acb4d3e9384135123c7f46b"
+      }
+    ],
+    "createdAt": "2026-10-11T08:47:58.277Z",
+    "updatedAt": "2026-10-11T08:47:58.277Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4da796177c9c93ec21c4",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb49217eec014fbbb81811",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "H55FaEp9G3IdCoGW+A04IeTxT34871GZ8cn33wNCl/EFQ8S7C8B1rCbeei4iJcOYpylB1Q==",
+    "nonce": "bLbyyL+WuDzy5fkDmjB4QbcnelAcR0wc",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb49217eec014fbbb81811",
+        "readAt": "2026-10-11T08:49:43.485Z",
+        "_id": "6acb4da796177c9c93ec21c5"
+      }
+    ],
+    "createdAt": "2026-10-11T08:49:43.495Z",
+    "updatedAt": "2026-10-11T08:49:43.495Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb4ddff9d0ed9cf166161d",
+    "conversationId": "6acb4a3e0b5e71f385d0cab3",
+    "senderId": "6acb4dcf02eff011c8eb1735",
+    "senderRole": "FACULTY",
+    "senderIdentifier": "FAC-CS-01",
+    "senderName": "Dr. S. Sundaram",
+    "ciphertext": "4WnlizdrCK1JvFOuoPwPq6fS3/7a+ZuUe73Ow8vEjYoIvGl9ILLxtpZO0u6+B0o/yCHIkw==",
+    "nonce": "dJEmHSVjCX//pUZeuwvEkhFZBv43b85F",
+    "keyVersion": 1,
+    "attachments": [],
+    "isEdited": false,
+    "isDeleted": false,
+    "readBy": [
+      {
+        "userId": "6acb4dcf02eff011c8eb1735",
+        "readAt": "2026-10-11T08:50:39.187Z",
+        "_id": "6acb4ddff9d0ed9cf166161e"
+      }
+    ],
+    "createdAt": "2026-10-11T08:50:39.208Z",
+    "updatedAt": "2026-10-11T08:50:39.208Z",
+    "__v": 0
+  }
+]

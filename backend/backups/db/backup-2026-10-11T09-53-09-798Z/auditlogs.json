@@ -1,0 +1,768 @@
+[
+  {
+    "_id": "6acb5c5d15bbe1af67ce5f39",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe943233",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:29.059Z",
+    "createdAt": "2026-10-11T09:52:29.066Z",
+    "updatedAt": "2026-10-11T09:52:29.066Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c5d15bbe1af67ce5f41",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ee",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ee",
+    "details": {
+      "role": "FACULTY"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:29.539Z",
+    "createdAt": "2026-10-11T09:52:29.541Z",
+    "updatedAt": "2026-10-11T09:52:29.541Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c5d15bbe1af67ce5f45",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ec",
+    "details": {
+      "role": "ADMIN"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:29.977Z",
+    "createdAt": "2026-10-11T09:52:29.980Z",
+    "updatedAt": "2026-10-11T09:52:29.980Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c62a1cae7ebaf35c959",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe943233",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:34.852Z",
+    "createdAt": "2026-10-11T09:52:34.856Z",
+    "updatedAt": "2026-10-11T09:52:34.856Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c63a1cae7ebaf35c961",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ee",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ee",
+    "details": {
+      "role": "FACULTY"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:35.305Z",
+    "createdAt": "2026-10-11T09:52:35.307Z",
+    "updatedAt": "2026-10-11T09:52:35.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c63a1cae7ebaf35c965",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ec",
+    "details": {
+      "role": "ADMIN"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:35.750Z",
+    "createdAt": "2026-10-11T09:52:35.754Z",
+    "updatedAt": "2026-10-11T09:52:35.754Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c65a1cae7ebaf35c9be",
+    "action": "PAYMENT_ORDER_CREATED",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "PaymentOrder",
+    "entityId": "6acb5c65a1cae7ebaf35c9bc",
+    "details": {
+      "amount": 500,
+      "orderId": "ORD_GASC_1791712357066_34"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:37.075Z",
+    "createdAt": "2026-10-11T09:52:37.077Z",
+    "updatedAt": "2026-10-11T09:52:37.077Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c65a1cae7ebaf35c9d3",
+    "action": "BONAFIDE_DOWNLOADED_PDF",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "BonafideRequest",
+    "entityId": "6acb5c515ce513bcbe9432c3",
+    "details": {
+      "registerNo": "23UCS042",
+      "format": "pdf"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:37.623Z",
+    "createdAt": "2026-10-11T09:52:37.625Z",
+    "updatedAt": "2026-10-11T09:52:37.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c67a1cae7ebaf35c9dd",
+    "action": "ACCOUNT_ACTIVATED",
+    "performedBy": "6acb5c515ce513bcbe943257",
+    "targetEntity": "Student",
+    "entityId": "6acb5c515ce513bcbe943259",
+    "details": {
+      "registerNo": "24UCS099"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:39.613Z",
+    "createdAt": "2026-10-11T09:52:39.615Z",
+    "updatedAt": "2026-10-11T09:52:39.615Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c68a1cae7ebaf35c9e7",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe943257",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe943257",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:40.106Z",
+    "createdAt": "2026-10-11T09:52:40.108Z",
+    "updatedAt": "2026-10-11T09:52:40.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c68a1cae7ebaf35c9ee",
+    "action": "STAFF_ACCOUNT_ACTIVATED",
+    "performedBy": "6acb5c515ce513bcbe943204",
+    "targetEntity": "Faculty",
+    "entityId": "6acb5c515ce513bcbe943206",
+    "details": {
+      "employeeId": "FAC-CS-02"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:40.593Z",
+    "createdAt": "2026-10-11T09:52:40.595Z",
+    "updatedAt": "2026-10-11T09:52:40.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c69a1cae7ebaf35ca56",
+    "action": "COMPLAINT_SUBMITTED",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "StudentComplaint",
+    "entityId": "6acb5c69a1cae7ebaf35ca53",
+    "details": {
+      "ticketNumber": "CMP-2026-0002",
+      "category": "ACADEMIC"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:41.351Z",
+    "createdAt": "2026-10-11T09:52:41.354Z",
+    "updatedAt": "2026-10-11T09:52:41.354Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c69a1cae7ebaf35ca5d",
+    "action": "COMPLAINT_UPDATED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "StudentComplaint",
+    "entityId": "6acb5c69a1cae7ebaf35ca53",
+    "details": {
+      "ticketNumber": "CMP-2026-0002",
+      "status": "UNDER_REVIEW"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:41.406Z",
+    "createdAt": "2026-10-11T09:52:41.408Z",
+    "updatedAt": "2026-10-11T09:52:41.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c6aa1cae7ebaf35ca9e",
+    "action": "STUDENT_ADMITTED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Student",
+    "entityId": "6acb5c6aa1cae7ebaf35ca9a",
+    "details": {
+      "regNo": "24UCS101",
+      "courseId": "6acb5c505ce513bcbe9431b2",
+      "year": 1,
+      "section": "A",
+      "classId": "6acb5c515ce513bcbe94320d"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:42.259Z",
+    "createdAt": "2026-10-11T09:52:42.261Z",
+    "updatedAt": "2026-10-11T09:52:42.261Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c6aa1cae7ebaf35cabc",
+    "action": "STUDENT_PROMOTED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Student",
+    "entityId": "6acb5c6aa1cae7ebaf35ca9a",
+    "details": {
+      "registerNo": "24UCS101",
+      "fromYear": 1,
+      "toYear": 2,
+      "newClassId": "6acb5c6aa1cae7ebaf35cab6",
+      "reason": "Passed Year 1 examinations successfully"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:42.480Z",
+    "createdAt": "2026-10-11T09:52:42.482Z",
+    "updatedAt": "2026-10-11T09:52:42.482Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c6aa1cae7ebaf35cacb",
+    "action": "STUDENT_BULK_IMPORT",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Student",
+    "details": {
+      "totalRows": 3,
+      "successfulCount": 1,
+      "failedCount": 2
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:42.985Z",
+    "createdAt": "2026-10-11T09:52:42.988Z",
+    "updatedAt": "2026-10-11T09:52:42.988Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c6fa1cae7ebaf35cba1",
+    "action": "MATERIAL_UPLOADED",
+    "performedBy": "6acb5c515ce513bcbe9431ee",
+    "targetEntity": "StudyMaterial",
+    "entityId": "6acb5c6fa1cae7ebaf35cb9f",
+    "details": {
+      "title": "Advanced Operating Systems Notes"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:47.084Z",
+    "createdAt": "2026-10-11T09:52:47.087Z",
+    "updatedAt": "2026-10-11T09:52:47.087Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c6fa1cae7ebaf35cbac",
+    "action": "MATERIAL_ARCHIVED",
+    "performedBy": "6acb5c515ce513bcbe9431ee",
+    "targetEntity": "StudyMaterial",
+    "entityId": "6acb5c6fa1cae7ebaf35cb9f",
+    "details": {
+      "title": "Advanced Operating Systems Notes",
+      "fileName": "OS_Unit4_Notes.pdf",
+      "reason": "Faculty/Admin archival"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:47.187Z",
+    "createdAt": "2026-10-11T09:52:47.190Z",
+    "updatedAt": "2026-10-11T09:52:47.190Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7199b73efbe63e82d2",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ec",
+    "details": {
+      "role": "ADMIN"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:49.293Z",
+    "createdAt": "2026-10-11T09:52:49.295Z",
+    "updatedAt": "2026-10-11T09:52:49.295Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7199b73efbe63e82db",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe943233",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:49.773Z",
+    "createdAt": "2026-10-11T09:52:49.776Z",
+    "updatedAt": "2026-10-11T09:52:49.776Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7299b73efbe63e82eb",
+    "action": "FACULTY_CREATED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Faculty",
+    "entityId": "6acb5c7299b73efbe63e82e9",
+    "details": {
+      "empId": "GASCK-STF-003",
+      "isAutoGeneratedId": true,
+      "isGeneratedPassword": true
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:50.305Z",
+    "createdAt": "2026-10-11T09:52:50.307Z",
+    "updatedAt": "2026-10-11T09:52:50.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7399b73efbe63e82fa",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c7299b73efbe63e82e7",
+    "targetEntity": "User",
+    "entityId": "6acb5c7299b73efbe63e82e7",
+    "details": {
+      "role": "STAFF"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:51.266Z",
+    "createdAt": "2026-10-11T09:52:51.269Z",
+    "updatedAt": "2026-10-11T09:52:51.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7499b73efbe63e82ff",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c7299b73efbe63e82e7",
+    "targetEntity": "User",
+    "entityId": "6acb5c7299b73efbe63e82e7",
+    "details": {
+      "role": "STAFF"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:52.173Z",
+    "createdAt": "2026-10-11T09:52:52.175Z",
+    "updatedAt": "2026-10-11T09:52:52.175Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7599b73efbe63e830a",
+    "action": "PASSWORD_CHANGED",
+    "performedBy": "6acb5c7299b73efbe63e82e7",
+    "targetEntity": "User",
+    "entityId": "6acb5c7299b73efbe63e82e7",
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:53.098Z",
+    "createdAt": "2026-10-11T09:52:53.101Z",
+    "updatedAt": "2026-10-11T09:52:53.101Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7599b73efbe63e831c",
+    "action": "FACULTY_UPDATED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Faculty",
+    "entityId": "6acb5c7299b73efbe63e82e9",
+    "details": {
+      "employeeId": "GASCK-STF-003",
+      "updatedFields": [
+        "designation",
+        "phone",
+        "address",
+        "specialization"
+      ]
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:53.294Z",
+    "createdAt": "2026-10-11T09:52:53.297Z",
+    "updatedAt": "2026-10-11T09:52:53.297Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7599b73efbe63e8326",
+    "action": "FACULTY_CLASSES_ASSIGNED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Faculty",
+    "entityId": "6acb5c7299b73efbe63e82e9",
+    "details": {
+      "employeeId": "GASCK-STF-003",
+      "count": 1
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:53.376Z",
+    "createdAt": "2026-10-11T09:52:53.379Z",
+    "updatedAt": "2026-10-11T09:52:53.379Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7599b73efbe63e8333",
+    "action": "FACULTY_PASSWORD_RESET",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c7299b73efbe63e82e7",
+    "details": {
+      "employeeId": "GASCK-STF-003"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:53.858Z",
+    "createdAt": "2026-10-11T09:52:53.860Z",
+    "updatedAt": "2026-10-11T09:52:53.860Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7699b73efbe63e8337",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c7299b73efbe63e82e7",
+    "targetEntity": "User",
+    "entityId": "6acb5c7299b73efbe63e82e7",
+    "details": {
+      "role": "STAFF"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:54.295Z",
+    "createdAt": "2026-10-11T09:52:54.297Z",
+    "updatedAt": "2026-10-11T09:52:54.297Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7699b73efbe63e833e",
+    "action": "ACCOUNT_STATUS_CHANGED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c7299b73efbe63e82e7",
+    "details": {
+      "oldStatus": "ACTIVE",
+      "newStatus": "SUSPENDED",
+      "identifier": "GASCK-STF-003"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:54.353Z",
+    "createdAt": "2026-10-11T09:52:54.356Z",
+    "updatedAt": "2026-10-11T09:52:54.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7699b73efbe63e8347",
+    "action": "ACCOUNT_STATUS_CHANGED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c7299b73efbe63e82e7",
+    "details": {
+      "oldStatus": "SUSPENDED",
+      "newStatus": "ACTIVE",
+      "identifier": "GASCK-STF-003"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:54.446Z",
+    "createdAt": "2026-10-11T09:52:54.449Z",
+    "updatedAt": "2026-10-11T09:52:54.449Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7699b73efbe63e834e",
+    "action": "FACULTY_ARCHIVED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Faculty",
+    "entityId": "6acb5c7299b73efbe63e82e9",
+    "details": {
+      "employeeId": "GASCK-STF-003",
+      "reason": "Faculty transferred"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:54.504Z",
+    "createdAt": "2026-10-11T09:52:54.506Z",
+    "updatedAt": "2026-10-11T09:52:54.506Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7699b73efbe63e8357",
+    "action": "FACULTY_RESTORED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Faculty",
+    "entityId": "6acb5c7299b73efbe63e82e9",
+    "details": {
+      "employeeId": "GASCK-STF-003"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:54.564Z",
+    "createdAt": "2026-10-11T09:52:54.568Z",
+    "updatedAt": "2026-10-11T09:52:54.568Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c78cdde6e7ef6a58ffc",
+    "action": "ADMIN_DESIGNATED_PRIMARY",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "ADMIN_SECURITY",
+    "entityId": "GASC-ROOT-ADM-001",
+    "details": {
+      "summary": "Designated existing administrator account as authoritative Primary Admin"
+    },
+    "timestamp": "2026-10-11T09:52:56.294Z",
+    "createdAt": "2026-10-11T09:52:56.297Z",
+    "updatedAt": "2026-10-11T09:52:56.297Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c78cdde6e7ef6a59009",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ec",
+    "details": {
+      "role": "ADMIN"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:56.824Z",
+    "createdAt": "2026-10-11T09:52:56.826Z",
+    "updatedAt": "2026-10-11T09:52:56.826Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c79cdde6e7ef6a59011",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ee",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ee",
+    "details": {
+      "role": "FACULTY"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:57.302Z",
+    "createdAt": "2026-10-11T09:52:57.304Z",
+    "updatedAt": "2026-10-11T09:52:57.304Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c79cdde6e7ef6a59018",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe943233",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:52:57.772Z",
+    "createdAt": "2026-10-11T09:52:57.774Z",
+    "updatedAt": "2026-10-11T09:52:57.774Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7c13170e8b96a1e2d1",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe943233",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:00.951Z",
+    "createdAt": "2026-10-11T09:53:00.954Z",
+    "updatedAt": "2026-10-11T09:53:00.954Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7d13170e8b96a1e2d5",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ec",
+    "details": {
+      "role": "ADMIN"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:01.398Z",
+    "createdAt": "2026-10-11T09:53:01.401Z",
+    "updatedAt": "2026-10-11T09:53:01.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7d13170e8b96a1e2e2",
+    "action": "BONAFIDE_DOWNLOADED_DOCX",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "BonafideRequest",
+    "entityId": "6acb5c515ce513bcbe9432c3",
+    "details": {
+      "registerNo": "23UCS042",
+      "format": "docx"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:01.579Z",
+    "createdAt": "2026-10-11T09:53:01.585Z",
+    "updatedAt": "2026-10-11T09:53:01.585Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7d13170e8b96a1e2ea",
+    "action": "BONAFIDE_DOWNLOADED_DOCX",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "BonafideRequest",
+    "entityId": "6acb5c515ce513bcbe9432c3",
+    "details": {
+      "registerNo": "23UCS042",
+      "format": "docx"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:01.666Z",
+    "createdAt": "2026-10-11T09:53:01.672Z",
+    "updatedAt": "2026-10-11T09:53:01.672Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7d13170e8b96a1e2f2",
+    "action": "BONAFIDE_DOWNLOADED_PDF",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "BonafideRequest",
+    "entityId": "6acb5c515ce513bcbe9432c3",
+    "details": {
+      "registerNo": "23UCS042",
+      "format": "pdf"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:01.868Z",
+    "createdAt": "2026-10-11T09:53:01.870Z",
+    "updatedAt": "2026-10-11T09:53:01.870Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c7d13170e8b96a1e2ff",
+    "action": "BONAFIDE_DOWNLOADED_DOCX",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "BonafideRequest",
+    "entityId": "6acb5c515ce513bcbe9432c3",
+    "details": {
+      "registerNo": "23UCS042",
+      "format": "docx"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:01.990Z",
+    "createdAt": "2026-10-11T09:53:01.992Z",
+    "updatedAt": "2026-10-11T09:53:01.992Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c83664097eae7b5e5a0",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ec",
+    "details": {
+      "role": "ADMIN"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:07.537Z",
+    "createdAt": "2026-10-11T09:53:07.540Z",
+    "updatedAt": "2026-10-11T09:53:07.540Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c84664097eae7b5e5a8",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe9431ee",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe9431ee",
+    "details": {
+      "role": "FACULTY"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:08.034Z",
+    "createdAt": "2026-10-11T09:53:08.036Z",
+    "updatedAt": "2026-10-11T09:53:08.036Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c84664097eae7b5e5af",
+    "action": "USER_LOGIN",
+    "performedBy": "6acb5c515ce513bcbe943233",
+    "targetEntity": "User",
+    "entityId": "6acb5c515ce513bcbe943233",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:08.526Z",
+    "createdAt": "2026-10-11T09:53:08.528Z",
+    "updatedAt": "2026-10-11T09:53:08.528Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c84664097eae7b5e5be",
+    "action": "STUDENT_ARCHIVED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Student",
+    "entityId": "6acb5c515ce513bcbe943235",
+    "details": {
+      "registerNo": "23UCS042",
+      "reason": "Student transferred to another college"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:08.698Z",
+    "createdAt": "2026-10-11T09:53:08.700Z",
+    "updatedAt": "2026-10-11T09:53:08.700Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c84664097eae7b5e5c5",
+    "action": "STUDENT_RESTORED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Student",
+    "entityId": "6acb5c515ce513bcbe943235",
+    "details": {
+      "registerNo": "23UCS042"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:08.760Z",
+    "createdAt": "2026-10-11T09:53:08.763Z",
+    "updatedAt": "2026-10-11T09:53:08.763Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c84664097eae7b5e5cd",
+    "action": "STUDENT_ARCHIVED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Student",
+    "entityId": "6acb5c515ce513bcbe943235",
+    "details": {
+      "registerNo": "23UCS042",
+      "reason": "Temporary suspension for disciplinary review"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:08.830Z",
+    "createdAt": "2026-10-11T09:53:08.833Z",
+    "updatedAt": "2026-10-11T09:53:08.833Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acb5c84664097eae7b5e5d4",
+    "action": "STUDENT_RESTORED",
+    "performedBy": "6acb5c515ce513bcbe9431ec",
+    "targetEntity": "Student",
+    "entityId": "6acb5c515ce513bcbe943235",
+    "details": {
+      "registerNo": "23UCS042"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-11T09:53:08.886Z",
+    "createdAt": "2026-10-11T09:53:08.888Z",
+    "updatedAt": "2026-10-11T09:53:08.888Z",
+    "__v": 0
+  }
+]
