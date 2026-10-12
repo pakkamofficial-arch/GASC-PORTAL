@@ -1,4 +1,6 @@
 import { Request } from 'express';
+import type { ParamsDictionary } from 'express-serve-static-core';
+import type { ParsedQs } from 'qs';
 
 export type UserRole = 'STUDENT' | 'STAFF' | 'FACULTY' | 'ADMIN';
 
@@ -11,10 +13,20 @@ export interface TokenPayload {
   departmentId?: string;
   adminImmutableId?: string;
   e2eePublicKey?: string;
+  isHod?: boolean;
+  mustChangePassword?: boolean;
 }
 
-export interface AuthenticatedRequest extends Request {
+export interface AuthenticatedRequest<
+  P = ParamsDictionary,
+  ResBody = any,
+  ReqBody = any,
+  ReqQuery = ParsedQs,
+  Locals extends Record<string, any> = Record<string, any>
+> extends Request<P, ResBody, ReqBody, ReqQuery, Locals> {
   user?: TokenPayload;
+  file?: Express.Multer.File;
+  files?: Express.Multer.File[] | { [fieldname: string]: Express.Multer.File[] };
 }
 
 export interface ApiResponse<T = any> {

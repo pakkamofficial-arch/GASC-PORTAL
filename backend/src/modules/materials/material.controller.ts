@@ -1,4 +1,4 @@
-import { Response } from 'express';
+import { Request, Response, NextFunction } from 'express';
 import { z } from 'zod';
 import path from 'path';
 import fs from 'fs';
@@ -14,10 +14,18 @@ if (!fs.existsSync(UPLOADS_DIR)) {
 }
 
 const storage = multer.diskStorage({
-  destination: (_req, _file, cb) => {
+  destination: (
+    _req: Request,
+    _file: Express.Multer.File,
+    cb: (error: Error | null, destination: string) => void
+  ) => {
     cb(null, UPLOADS_DIR);
   },
-  filename: (_req, file, cb) => {
+  filename: (
+    _req: Request,
+    file: Express.Multer.File,
+    cb: (error: Error | null, filename: string) => void
+  ) => {
     const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1e9);
     const ext = path.extname(file.originalname).toLowerCase();
     cb(null, `material-${uniqueSuffix}${ext}`);
@@ -35,7 +43,11 @@ const allowedExtensions = ['.pdf', '.docx', '.doc'];
 const multerInstance = multer({
   storage,
   limits: { fileSize: 25 * 1024 * 1024 }, // 25 MB
-  fileFilter: (_req, file, cb) => {
+  fileFilter: (
+    _req: Request,
+    file: Express.Multer.File,
+    cb: multer.FileFilterCallback
+  ) => {
     const ext = path.extname(file.originalname).toLowerCase();
     if (allowedExtensions.includes(ext) || allowedMimes.includes(file.mimetype)) {
       cb(null, true);
@@ -45,15 +57,25 @@ const multerInstance = multer({
   },
 }).single('file');
 
-export const materialUploadMiddleware = (req: any, res: any, next: any) => {
-  multerInstance(req, res, (err: any) => {
+export const materialUploadMiddleware = (
+  req: Request,
+  res: Response,
+  next: NextFunction
+): void => {
+  multerInstance(req, res, (err: unknown) => {
     if (err instanceof multer.MulterError) {
       if (err.code === 'LIMIT_FILE_SIZE') {
-        return sendError(res, 'File size exceeds maximum limit of 25MB.', 400);
+        sendError(res, 'File size exceeds maximum limit of 25MB.', 400);
+        return;
       }
-      return sendError(res, `Upload error: ${err.message}`, 400);
+      sendError(res, `Upload error: ${err.message}`, 400);
+      return;
+    } else if (err instanceof Error) {
+      sendError(res, err.message, 400);
+      return;
     } else if (err) {
-      return sendError(res, err.message, 400);
+      sendError(res, 'File upload failed', 400);
+      return;
     }
     next();
   });
