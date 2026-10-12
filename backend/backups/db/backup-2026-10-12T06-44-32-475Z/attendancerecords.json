@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "6acc81b1951a2b856608b92f",
+    "sessionId": "6acc81b1951a2b856608b92b",
+    "studentId": "6acc81b1951a2b856608b8dd",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.618Z",
+    "updatedAt": "2026-10-12T06:44:01.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b92d",
+    "sessionId": "6acc81b1951a2b856608b92b",
+    "studentId": "6acc81b1951a2b856608b8d1",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-12T06:44:01.617Z",
+    "updatedAt": "2026-10-12T06:44:01.617Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b92e",
+    "sessionId": "6acc81b1951a2b856608b92b",
+    "studentId": "6acc81b1951a2b856608b8d7",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.618Z",
+    "updatedAt": "2026-10-12T06:44:01.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b935",
+    "sessionId": "6acc81b1951a2b856608b933",
+    "studentId": "6acc81b1951a2b856608b8d1",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-12T06:44:01.625Z",
+    "updatedAt": "2026-10-12T06:44:01.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b936",
+    "sessionId": "6acc81b1951a2b856608b933",
+    "studentId": "6acc81b1951a2b856608b8d7",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.625Z",
+    "updatedAt": "2026-10-12T06:44:01.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b937",
+    "sessionId": "6acc81b1951a2b856608b933",
+    "studentId": "6acc81b1951a2b856608b8dd",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.625Z",
+    "updatedAt": "2026-10-12T06:44:01.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b93e",
+    "sessionId": "6acc81b1951a2b856608b93b",
+    "studentId": "6acc81b1951a2b856608b8d7",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.631Z",
+    "updatedAt": "2026-10-12T06:44:01.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b93d",
+    "sessionId": "6acc81b1951a2b856608b93b",
+    "studentId": "6acc81b1951a2b856608b8d1",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-12T06:44:01.631Z",
+    "updatedAt": "2026-10-12T06:44:01.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b93f",
+    "sessionId": "6acc81b1951a2b856608b93b",
+    "studentId": "6acc81b1951a2b856608b8dd",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.631Z",
+    "updatedAt": "2026-10-12T06:44:01.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b945",
+    "sessionId": "6acc81b1951a2b856608b943",
+    "studentId": "6acc81b1951a2b856608b8d1",
+    "status": "ABSENT",
+    "remarks": "Fever / Leave letter submitted",
+    "createdAt": "2026-10-12T06:44:01.636Z",
+    "updatedAt": "2026-10-12T06:44:01.636Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b946",
+    "sessionId": "6acc81b1951a2b856608b943",
+    "studentId": "6acc81b1951a2b856608b8d7",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.636Z",
+    "updatedAt": "2026-10-12T06:44:01.636Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b947",
+    "sessionId": "6acc81b1951a2b856608b943",
+    "studentId": "6acc81b1951a2b856608b8dd",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.636Z",
+    "updatedAt": "2026-10-12T06:44:01.636Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b94f",
+    "sessionId": "6acc81b1951a2b856608b94b",
+    "studentId": "6acc81b1951a2b856608b8dd",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.646Z",
+    "updatedAt": "2026-10-12T06:44:01.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b94e",
+    "sessionId": "6acc81b1951a2b856608b94b",
+    "studentId": "6acc81b1951a2b856608b8d7",
+    "status": "PRESENT",
+    "createdAt": "2026-10-12T06:44:01.646Z",
+    "updatedAt": "2026-10-12T06:44:01.646Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc81b1951a2b856608b94d",
+    "sessionId": "6acc81b1951a2b856608b94b",
+    "studentId": "6acc81b1951a2b856608b8d1",
+    "status": "PRESENT",
+    "remarks": "Present in class",
+    "createdAt": "2026-10-12T06:44:01.646Z",
+    "updatedAt": "2026-10-12T06:44:01.646Z",
+    "__v": 0
+  }
+]

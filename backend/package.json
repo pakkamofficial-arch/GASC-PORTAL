@@ -9,7 +9,8 @@
     "start": "node dist/server.js",
     "seed": "tsx src/seed.ts",
     "pretest": "tsx src/seed.ts",
-    "test": "jest --runInBand --detectOpenHandles"
+    "test": "jest --runInBand --detectOpenHandles",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p tests/tsconfig.json"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -47,6 +48,6 @@
     "supertest": "^7.0.0",
     "ts-jest": "^29.2.5",
     "tsx": "^4.19.3",
-    "typescript": "^5.7.3"
+    "typescript": "5.9.3"
   }
 }

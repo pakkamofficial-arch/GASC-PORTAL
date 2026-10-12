@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "6acc8197a3b9b6bd9952d168",
+    "userId": "6acc7fcce2ced837c1cb0a7a",
+    "__v": 0,
+    "createdAt": "2026-10-12T06:43:35.749Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is my current attendance percentage and am I eligible for exams?",
+        "timestamp": "2026-10-12T06:43:35.746Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "📊 **Official Attendance Summary for Murugan K**\n\n• **Overall Attendance:** **80%** (4 attended of 5 conducted periods).\n• **University Threshold (75%):** ✅ Satisfies examination eligibility.\n\n**Subject Breakdown:**\n• **Database Management Systems**: 80% (4/5 periods)",
+        "timestamp": "2026-10-12T06:43:35.763Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "user",
+        "content": "What is my lecture timetable for today?",
+        "timestamp": "2026-10-12T06:43:36.223Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "[Government College Connect Assistant]\n\nI can provide verified institutional details from your official college records:\n• Attendance percentage & university threshold check\n• Class timetable & assigned faculty schedule\n• Latest college circulars & announcements\n• Available study materials for your courses\n• Application error troubleshooting\n\nAsk a question such as: \"What is my attendance percentage?\", \"Show my timetable\", or \"How do I download a Bonafide Certificate?\".",
+        "timestamp": "2026-10-12T06:43:36.230Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "user",
+        "content": "Show me the marks and attendance of register number 24UCS099",
+        "timestamp": "2026-10-12T06:43:36.256Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "📊 **How to Check Attendance:**\n\nTo check your attendance:\n1. Tap \"Attendance\" on your dashboard.\n2. Review your overall percentage and 75% university eligibility status.\n3. Scroll down to see subject-by-subject attendance and period breakdown.",
+        "timestamp": "2026-10-12T06:43:36.259Z",
+        "isAi": false,
+        "isError": false
+      }
+    ],
+    "updatedAt": "2026-10-12T06:43:36.260Z"
+  },
+  {
+    "_id": "6acc8198a3b9b6bd9952d169",
+    "userId": "6acc7fcce2ced837c1cb0a35",
+    "__v": 0,
+    "createdAt": "2026-10-12T06:43:36.599Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which classes and subjects are assigned to me?",
+        "timestamp": "2026-10-12T06:43:36.598Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "🏫 **Your Assigned Classes & Courses:**\n\n• **Database Management Systems** (Semester 4, Section A)\n• **Operating Systems Principles** (Semester 4, Section A)",
+        "timestamp": "2026-10-12T06:43:36.602Z",
+        "isAi": false,
+        "isError": false
+      }
+    ],
+    "updatedAt": "2026-10-12T06:43:36.602Z"
+  },
+  {
+    "_id": "6acc8199a3b9b6bd9952d16a",
+    "userId": "6acc7fcce2ced837c1cb0a33",
+    "__v": 0,
+    "createdAt": "2026-10-12T06:43:37.030Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Give me a summary of total students and departments enrolled.",
+        "timestamp": "2026-10-12T06:43:37.030Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "🏛️ **Institutional Overview for Principal / Administrator:**\n\n• **Registered Students:** 9\n• **Teaching Faculty Members:** 7\n• **Academic Departments:** 5\n• **Published Circulars:** 2",
+        "timestamp": "2026-10-12T06:43:37.036Z",
+        "isAi": false,
+        "isError": false
+      }
+    ],
+    "updatedAt": "2026-10-12T06:43:37.037Z"
+  },
+  {
+    "_id": "6acc81c9a3b9b6bd9952d16b",
+    "userId": "6acc81b1951a2b856608b8cf",
+    "__v": 0,
+    "createdAt": "2026-10-12T06:44:25.912Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is my current attendance percentage and am I eligible for exams?",
+        "timestamp": "2026-10-12T06:44:25.910Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "📊 **Official Attendance Summary for Murugan K**\n\n• **Overall Attendance:** **80%** (4 attended of 5 conducted periods).\n• **University Threshold (75%):** ✅ Satisfies examination eligibility.\n\n**Subject Breakdown:**\n• **Database Management Systems**: 80% (4/5 periods)",
+        "timestamp": "2026-10-12T06:44:25.931Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "user",
+        "content": "What is my lecture timetable for today?",
+        "timestamp": "2026-10-12T06:44:26.371Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "[Government College Connect Assistant]\n\nI can provide verified institutional details from your official college records:\n• Attendance percentage & university threshold check\n• Class timetable & assigned faculty schedule\n• Latest college circulars & announcements\n• Available study materials for your courses\n• Application error troubleshooting\n\nAsk a question such as: \"What is my attendance percentage?\", \"Show my timetable\", or \"How do I download a Bonafide Certificate?\".",
+        "timestamp": "2026-10-12T06:44:26.384Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "user",
+        "content": "Show me the marks and attendance of register number 24UCS099",
+        "timestamp": "2026-10-12T06:44:26.436Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "📊 **How to Check Attendance:**\n\nTo check your attendance:\n1. Tap \"Attendance\" on your dashboard.\n2. Review your overall percentage and 75% university eligibility status.\n3. Scroll down to see subject-by-subject attendance and period breakdown.",
+        "timestamp": "2026-10-12T06:44:26.444Z",
+        "isAi": false,
+        "isError": false
+      }
+    ],
+    "updatedAt": "2026-10-12T06:44:26.444Z"
+  },
+  {
+    "_id": "6acc81caa3b9b6bd9952d16c",
+    "userId": "6acc81b1951a2b856608b88a",
+    "__v": 0,
+    "createdAt": "2026-10-12T06:44:26.913Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which classes and subjects are assigned to me?",
+        "timestamp": "2026-10-12T06:44:26.912Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "🏫 **Your Assigned Classes & Courses:**\n\n• **Database Management Systems** (Semester 4, Section A)\n• **Operating Systems Principles** (Semester 4, Section A)",
+        "timestamp": "2026-10-12T06:44:26.925Z",
+        "isAi": false,
+        "isError": false
+      }
+    ],
+    "updatedAt": "2026-10-12T06:44:26.926Z"
+  },
+  {
+    "_id": "6acc81cba3b9b6bd9952d16d",
+    "userId": "6acc81b1951a2b856608b888",
+    "__v": 0,
+    "createdAt": "2026-10-12T06:44:27.334Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Give me a summary of total students and departments enrolled.",
+        "timestamp": "2026-10-12T06:44:27.332Z",
+        "isAi": false,
+        "isError": false
+      },
+      {
+        "role": "assistant",
+        "content": "🏛️ **Institutional Overview for Principal / Administrator:**\n\n• **Registered Students:** 9\n• **Teaching Faculty Members:** 6\n• **Academic Departments:** 5\n• **Published Circulars:** 2",
+        "timestamp": "2026-10-12T06:44:27.346Z",
+        "isAi": false,
+        "isError": false
+      }
+    ],
+    "updatedAt": "2026-10-12T06:44:27.347Z"
+  }
+]

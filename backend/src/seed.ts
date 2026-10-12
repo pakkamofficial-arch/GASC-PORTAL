@@ -1248,7 +1248,11 @@ export const seedDatabase = async (): Promise<void> => {
   await disconnectDatabase();
 };
 
-if (require.main === module) {
+const isMainModule =
+  require.main === module ||
+  (process.argv[1] && (process.argv[1].endsWith('seed.ts') || process.argv[1].endsWith('seed.js')));
+
+if (isMainModule) {
   seedDatabase()
     .then(() => process.exit(0))
     .catch((err) => {

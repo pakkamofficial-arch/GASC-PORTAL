@@ -366,7 +366,7 @@ ${materials.map((m: any) => `• ${m.title} (${m.subjectId?.title || 'Subject'})
       const slots = faculty
         ? await TimetableSlot.find({ facultyId: faculty._id, dayOfWeek: currentDay })
             .populate('subjectId', 'title code')
-            .populate('classId', 'name section year')
+            .populate('departmentId', 'name code')
             .sort({ periodNo: 1 })
             .lean()
         : [];

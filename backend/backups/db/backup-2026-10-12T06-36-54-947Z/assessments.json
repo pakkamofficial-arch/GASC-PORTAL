@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "6acc7fcde2ced837c1cb0afe",
+    "title": "Continuous Internal Assessment - I (CIA 1)",
+    "category": "INTERNAL_TEST",
+    "academicYear": "2024-2025",
+    "semester": 4,
+    "departmentId": "6acc7fcbe2ced837c1cb09b0",
+    "subjectId": "6acc7fcbe2ced837c1cb0a23",
+    "maxMarks": 25,
+    "passingMarks": 10,
+    "assessmentDate": "2026-09-28T06:35:57.041Z",
+    "entryDeadline": "2026-10-02T06:35:57.041Z",
+    "status": "PUBLISHED",
+    "facultyId": "6acc7fcce2ced837c1cb0a37",
+    "approvedBy": "6acc7fcce2ced837c1cb0a33",
+    "approvedAt": "2026-10-12T06:35:57.041Z",
+    "publishedAt": "2026-10-12T06:35:57.041Z",
+    "createdAt": "2026-10-12T06:35:57.042Z",
+    "updatedAt": "2026-10-12T06:35:57.042Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc7fcde2ced837c1cb0b06",
+    "title": "Continuous Internal Assessment - II (CIA 2)",
+    "category": "INTERNAL_TEST",
+    "academicYear": "2024-2025",
+    "semester": 4,
+    "departmentId": "6acc7fcbe2ced837c1cb09b0",
+    "subjectId": "6acc7fcbe2ced837c1cb0a23",
+    "maxMarks": 25,
+    "passingMarks": 10,
+    "assessmentDate": "2026-10-22T06:35:57.050Z",
+    "entryDeadline": "2026-10-27T06:35:57.050Z",
+    "status": "DRAFT",
+    "facultyId": "6acc7fcce2ced837c1cb0a37",
+    "createdAt": "2026-10-12T06:35:57.051Z",
+    "updatedAt": "2026-10-12T06:35:57.051Z",
+    "__v": 0
+  }
+]

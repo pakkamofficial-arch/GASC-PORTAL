@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6acc7fcde2ced837c1cb0b1a",
+    "ticketNumber": "CMP-2026-0001",
+    "studentId": "6acc7fcce2ced837c1cb0a7c",
+    "category": "INFRASTRUCTURE",
+    "subject": "Projector display flickering in Smart Classroom 2",
+    "description": "The HDMI connection and bulb on the ceiling projector in Computer Science Lab 2 flickers continuously during the afternoon session.",
+    "status": "UNDER_REVIEW",
+    "priority": "MEDIUM",
+    "internalNotes": "Technician from Mayiladuthurai IT Services contacted. Scheduled for maintenance on Saturday.",
+    "history": [
+      {
+        "status": "SUBMITTED",
+        "changedBy": "6acc7fcce2ced837c1cb0a7a",
+        "comment": "Grievance submitted by student",
+        "timestamp": "2026-10-10T06:35:57.079Z",
+        "_id": "6acc7fcde2ced837c1cb0b1b"
+      },
+      {
+        "status": "UNDER_REVIEW",
+        "changedBy": "6acc7fcce2ced837c1cb0a33",
+        "comment": "Assigned to Computer Science Department maintenance representative",
+        "timestamp": "2026-10-11T06:35:57.079Z",
+        "_id": "6acc7fcde2ced837c1cb0b1c"
+      }
+    ],
+    "createdAt": "2026-10-12T06:35:57.081Z",
+    "updatedAt": "2026-10-12T06:35:57.081Z",
+    "__v": 0
+  }
+]

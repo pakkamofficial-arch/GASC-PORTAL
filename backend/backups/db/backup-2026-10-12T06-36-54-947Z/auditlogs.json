@@ -1,0 +1,109 @@
+[
+  {
+    "_id": "6acc800457c10f960443d5ed",
+    "action": "USER_LOGIN",
+    "performedBy": "6acc7fcce2ced837c1cb0a33",
+    "targetEntity": "User",
+    "entityId": "6acc7fcce2ced837c1cb0a33",
+    "details": {
+      "role": "ADMIN"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-12T06:36:52.509Z",
+    "createdAt": "2026-10-12T06:36:52.516Z",
+    "updatedAt": "2026-10-12T06:36:52.516Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc800557c10f960443d5f5",
+    "action": "USER_LOGIN",
+    "performedBy": "6acc7fcce2ced837c1cb0a35",
+    "targetEntity": "User",
+    "entityId": "6acc7fcce2ced837c1cb0a35",
+    "details": {
+      "role": "FACULTY"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-12T06:36:53.024Z",
+    "createdAt": "2026-10-12T06:36:53.027Z",
+    "updatedAt": "2026-10-12T06:36:53.027Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc800557c10f960443d5fc",
+    "action": "USER_LOGIN",
+    "performedBy": "6acc7fcce2ced837c1cb0a7a",
+    "targetEntity": "User",
+    "entityId": "6acc7fcce2ced837c1cb0a7a",
+    "details": {
+      "role": "STUDENT"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-12T06:36:53.490Z",
+    "createdAt": "2026-10-12T06:36:53.493Z",
+    "updatedAt": "2026-10-12T06:36:53.493Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc800557c10f960443d60b",
+    "action": "STUDENT_ARCHIVED",
+    "performedBy": "6acc7fcce2ced837c1cb0a33",
+    "targetEntity": "Student",
+    "entityId": "6acc7fcce2ced837c1cb0a7c",
+    "details": {
+      "registerNo": "23UCS042",
+      "reason": "Student transferred to another college"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-12T06:36:53.732Z",
+    "createdAt": "2026-10-12T06:36:53.735Z",
+    "updatedAt": "2026-10-12T06:36:53.735Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc800557c10f960443d612",
+    "action": "STUDENT_RESTORED",
+    "performedBy": "6acc7fcce2ced837c1cb0a33",
+    "targetEntity": "Student",
+    "entityId": "6acc7fcce2ced837c1cb0a7c",
+    "details": {
+      "registerNo": "23UCS042"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-12T06:36:53.793Z",
+    "createdAt": "2026-10-12T06:36:53.795Z",
+    "updatedAt": "2026-10-12T06:36:53.795Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc800557c10f960443d61a",
+    "action": "STUDENT_ARCHIVED",
+    "performedBy": "6acc7fcce2ced837c1cb0a33",
+    "targetEntity": "Student",
+    "entityId": "6acc7fcce2ced837c1cb0a7c",
+    "details": {
+      "registerNo": "23UCS042",
+      "reason": "Temporary suspension for disciplinary review"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-12T06:36:53.881Z",
+    "createdAt": "2026-10-12T06:36:53.883Z",
+    "updatedAt": "2026-10-12T06:36:53.883Z",
+    "__v": 0
+  },
+  {
+    "_id": "6acc800557c10f960443d621",
+    "action": "STUDENT_RESTORED",
+    "performedBy": "6acc7fcce2ced837c1cb0a33",
+    "targetEntity": "Student",
+    "entityId": "6acc7fcce2ced837c1cb0a7c",
+    "details": {
+      "registerNo": "23UCS042"
+    },
+    "ipAddress": "127.0.0.1",
+    "timestamp": "2026-10-12T06:36:53.934Z",
+    "createdAt": "2026-10-12T06:36:53.936Z",
+    "updatedAt": "2026-10-12T06:36:53.936Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Government College Connect",
+    "slug": "government-college-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#176B3A",
+    "icon": "./assets/branding/app-logo.png",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F1F8F1",
+    "splash": {
+      "image": "./assets/branding/app-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#176B3A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "in.edu.gasckuthalam.connect"
+    },
+    "android": {
+      "package": "in.edu.gasckuthalam.connect",
+      "adaptiveIcon": {
+        "backgroundColor": "#176B3A",
+        "foregroundImage": "./assets/branding/app-logo.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

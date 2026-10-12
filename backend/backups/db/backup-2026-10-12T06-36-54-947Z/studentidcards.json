@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6acc7fcde2ced837c1cb0b08",
+    "studentId": "6acc7fcce2ced837c1cb0a7c",
+    "cardNumber": "GASC-ID-2024-0042",
+    "issueDate": "2023-08-01T00:00:00.000Z",
+    "expiryDate": "2027-05-31T00:00:00.000Z",
+    "status": "ISSUED",
+    "qrVerificationToken": "verify_murugan_k_23ucs042_token_gasc2026",
+    "reissueCount": 0,
+    "approvedBy": "6acc7fcce2ced837c1cb0a33",
+    "approvedAt": "2023-08-05T00:00:00.000Z",
+    "history": [],
+    "createdAt": "2026-10-12T06:35:57.056Z",
+    "updatedAt": "2026-10-12T06:35:57.056Z",
+    "__v": 0
+  }
+]

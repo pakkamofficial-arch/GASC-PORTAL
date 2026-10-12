@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6acc7fcde2ced837c1cb0b12",
+    "academicYear": "2024-2025",
+    "semester": 4,
+    "departmentId": "6acc7fcbe2ced837c1cb09b0",
+    "degree": "UG",
+    "tuitionFee": 0,
+    "specialFee": 450,
+    "labFee": 600,
+    "libraryFee": 150,
+    "examFee": 800,
+    "otherFee": 200,
+    "totalAmount": 2200,
+    "dueDate": "2026-11-11T06:35:57.068Z",
+    "createdAt": "2026-10-12T06:35:57.069Z",
+    "updatedAt": "2026-10-12T06:35:57.069Z",
+    "__v": 0
+  }
+]

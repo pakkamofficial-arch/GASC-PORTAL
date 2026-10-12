@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "6acc7fcde2ced837c1cb0b18",
+    "title": "Unit 1 & 2 DBMS Lecture Notes - Relational Algebra & SQL",
+    "description": "Comprehensive lecture handouts with solved query problems for B.Sc CS Semester 4.",
+    "departmentId": "6acc7fcbe2ced837c1cb09b0",
+    "courseId": "6acc7fcbe2ced837c1cb09f6",
+    "classId": "6acc7fcce2ced837c1cb0a56",
+    "subjectId": "6acc7fcbe2ced837c1cb0a23",
+    "semester": 4,
+    "unitOrTopic": "Relational Database Fundamentals",
+    "unitNumber": 1,
+    "fileType": "pdf",
+    "fileUrl": "/uploads/materials/dbms_unit1_2_lecture_notes.pdf",
+    "fileName": "dbms_unit1_2_lecture_notes.pdf",
+    "fileSize": 2458900,
+    "isPublished": true,
+    "downloadsCount": 14,
+    "uploadedBy": "6acc7fcce2ced837c1cb0a37",
+    "isDeleted": false,
+    "publicationDate": "2026-10-12T06:35:57.076Z",
+    "createdAt": "2026-10-12T06:35:57.077Z",
+    "updatedAt": "2026-10-12T06:35:57.077Z",
+    "__v": 0
+  }
+]

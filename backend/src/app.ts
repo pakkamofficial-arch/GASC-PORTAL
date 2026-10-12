@@ -86,6 +86,22 @@ export const createApp = (): Application => {
     });
   };
 
+  // Root and API status endpoints (provides safe, public service discovery)
+  const rootHandler = (_req: Request, res: Response) => {
+    res.status(200).json({
+      success: true,
+      app: 'Government College Connect API',
+      institution: config.college.name,
+      status: 'ONLINE',
+      version: '1.0.0',
+      apiPrefix: config.apiPrefix,
+      healthEndpoint: `${config.apiPrefix}/health`,
+    });
+  };
+
+  app.get('/', rootHandler);
+  app.get(config.apiPrefix, rootHandler);
+
   app.get('/health', healthHandler);
   app.get(`${config.apiPrefix}/health`, healthHandler);
 

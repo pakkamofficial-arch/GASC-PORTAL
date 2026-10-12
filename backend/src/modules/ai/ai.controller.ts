@@ -35,31 +35,36 @@ export const chatWithAssistant = async (
   req: AuthenticatedRequest,
   res: Response
 ): Promise<void> => {
-  const parsed = ChatQuerySchema.safeParse(req.body);
-  if (!parsed.success) {
-    sendError(res, parsed.error.errors[0].message, 422);
-    return;
+  try {
+    const parsed = ChatQuerySchema.safeParse(req.body);
+    if (!parsed.success) {
+      sendError(res, parsed.error.errors[0].message, 422);
+      return;
+    }
+
+    const result = await AIService.handleCollegeChat(req.user!, parsed.data.message);
+
+    await AIUsageRecord.create({
+      userId: req.user!.userId,
+      feature: 'ASSISTANT',
+      promptLength: parsed.data.message.length,
+      responseLength: result.response.length,
+      status: result.isAiConfigured ? 'SUCCESS' : 'FALLBACK',
+    });
+
+    sendSuccess(
+      res,
+      {
+        ...result,
+        reply: result.response,
+        developerCredit: GASC_APP_METADATA.developerCredit,
+      },
+      'College assistant response generated'
+    );
+  } catch (error: any) {
+    console.error('[AIController] Error handling chatWithAssistant:', error);
+    sendError(res, error.message || 'Failed to process AI chat query', 500);
   }
-
-  const result = await AIService.handleCollegeChat(req.user!, parsed.data.message);
-
-  await AIUsageRecord.create({
-    userId: req.user!.userId,
-    feature: 'ASSISTANT',
-    promptLength: parsed.data.message.length,
-    responseLength: result.response.length,
-    status: result.isAiConfigured ? 'SUCCESS' : 'FALLBACK',
-  });
-
-  sendSuccess(
-    res,
-    {
-      ...result,
-      reply: result.response,
-      developerCredit: GASC_APP_METADATA.developerCredit,
-    },
-    'College assistant response generated'
-  );
 };
 
 export const getChatHistory = async (

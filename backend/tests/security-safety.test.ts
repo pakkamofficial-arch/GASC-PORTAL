@@ -278,12 +278,42 @@ describe('GOVERNMENT COLLEGE CONNECT - Security, Safety & Resilience Suite (18 A
     });
   });
 
-  // CRITERION 9: Database disconnection is handled safely
-  describe('Criterion 9: Database Connection Health Reporting', () => {
+  // CRITERION 9: Database disconnection and route availability are handled safely
+  describe('Criterion 9: Service Health & Endpoint Discovery', () => {
     it('should report HTTP 200 on /health when MongoDB is connected', async () => {
       const res = await request(app).get('/health');
       expect(res.status).toBe(200);
       expect(res.body.database).toBe('CONNECTED');
+    });
+
+    it('should report HTTP 200 on /api/v1/health with identical status', async () => {
+      const res = await request(app).get('/api/v1/health');
+      expect(res.status).toBe(200);
+      expect(res.body.status).toBe('HEALTHY');
+      expect(res.body.database).toBe('CONNECTED');
+    });
+
+    it('should report HTTP 200 on root / with sanitized institutional information', async () => {
+      const res = await request(app).get('/');
+      expect(res.status).toBe(200);
+      expect(res.body.success).toBe(true);
+      expect(res.body.status).toBe('ONLINE');
+      expect(res.body.app).toBe('Government College Connect API');
+      expect(res.body.healthEndpoint).toBeDefined();
+    });
+
+    it('should report HTTP 200 on root /api/v1 with sanitized institutional information', async () => {
+      const res = await request(app).get('/api/v1');
+      expect(res.status).toBe(200);
+      expect(res.body.success).toBe(true);
+      expect(res.body.status).toBe('ONLINE');
+    });
+
+    it('should return consistent JSON 404 on intentionally nonexistent routes', async () => {
+      const res = await request(app).get('/api/v1/non-existent-diagnostic-probe');
+      expect(res.status).toBe(404);
+      expect(res.body.success).toBe(false);
+      expect(res.body.message).toBe('The requested API endpoint was not found on this server.');
     });
 
     it('should correctly report service unavailable if MongoDB state is not 1', () => {

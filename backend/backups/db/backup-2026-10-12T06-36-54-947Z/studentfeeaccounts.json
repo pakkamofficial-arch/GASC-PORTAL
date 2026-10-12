@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6acc7fcde2ced837c1cb0b14",
+    "studentId": "6acc7fcce2ced837c1cb0a7c",
+    "academicYear": "2024-2025",
+    "semester": 4,
+    "feeStructureId": "6acc7fcde2ced837c1cb0b12",
+    "baseAmount": 2200,
+    "concessionAmount": 0,
+    "netPayable": 2200,
+    "paidAmount": 1000,
+    "balanceAmount": 1200,
+    "status": "PARTIAL",
+    "createdAt": "2026-10-12T06:35:57.071Z",
+    "updatedAt": "2026-10-12T06:35:57.071Z",
+    "__v": 0
+  }
+]

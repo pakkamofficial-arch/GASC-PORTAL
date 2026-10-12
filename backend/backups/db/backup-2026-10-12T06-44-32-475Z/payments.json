@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "6acc81b1951a2b856608b96b",
+    "orderId": "ORD_GASC_INIT_001",
+    "studentId": "6acc81b1951a2b856608b8d1",
+    "feeAccountId": "6acc81b1951a2b856608b967",
+    "transactionId": "TXN_GASC_UPI_9823412",
+    "amount": 1000,
+    "paymentMethod": "UPI (Google Pay / PhonePe)",
+    "status": "SUCCESS",
+    "verifiedAt": "2026-09-27T06:44:01.685Z",
+    "receiptUrl": "/api/v1/payments/receipts/REC/GASC/2026/00042",
+    "createdAt": "2026-10-12T06:44:01.686Z",
+    "updatedAt": "2026-10-12T06:44:01.686Z",
+    "__v": 0
+  }
+]
